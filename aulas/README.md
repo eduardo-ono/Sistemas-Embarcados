@@ -4,6 +4,8 @@
 
 Prof. Eduardo Ono
 
+Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
+
 <br>
 
 ## Arduino (Tinkercad)
@@ -11,7 +13,7 @@ Prof. Eduardo Ono
 <details>
     <summary>[26/11/2020] Aula 01 (Tinkercad)</summary>
 
-[img](https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1)
+<a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank"><img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
 
 </details>
 
