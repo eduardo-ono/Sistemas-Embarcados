@@ -11,7 +11,7 @@ Prof. Eduardo Ono
 <details>
     <summary>[26/11/2020] Aula 01 (Tinkercad)</summary>
 
-![img](https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1)
+[img](https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1)
 
 </details>
 
