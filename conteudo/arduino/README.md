@@ -28,6 +28,10 @@ Prof. Eduardo Ono
 
 ## Vídeos Recomendados
 
+* [DroneBot Workshop] [RGB LEDs with Arduino - Standard & NeoPixel](https://www.youtube.com/watch?v=JpEFAXenTyY) (YouTube, 43:34, Abr/2018)
+* [DroneBot Workshop] [Using LCD Displays with Arduino](https://www.youtube.com/watch?v=wEbGhYjn4QI) (YouTube, 46:22, Mar/2018)
+* [How To Mechatronics] [How I2C Communication Works and How To Use It with Arduino](https://www.youtube.com/watch?v=6IAkYpmA1DQ) (YouTube, 9:57, Out/2015)
+
 <br>
 
 ## Bibliografia
