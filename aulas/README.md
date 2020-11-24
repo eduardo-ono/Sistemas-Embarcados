@@ -39,10 +39,10 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
     <summary><strong>[23/11/2020] Aula 04: Display LCD</strong></summary>
-    <section>
     <a href="https://www.tinkercad.com/embed/e3wz9LD8NR0?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/e3wz9LD8NR0/t725.png?rev=1606162539897000000&s=&v=1&type=circuits" width="300px"></a>
-    </section>
+    <a href="https://www.tinkercad.com/embed/dDb5BsbxPrr?editbtn=1" target="_blank">
+    <img src="https://csg.tinkercad.com/things/dDb5BsbxPrr/t725.png?rev=1606162539897000000&s=&v=1&type=circuits" width="300px"></a>
 </details>
 
 <br>
