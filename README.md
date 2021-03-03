@@ -34,4 +34,6 @@ Aula | Data  | Conteúdo
 
 * [MONK_2014] MONK, Simon. Programming Arduino Next Steps: Going Further with Sketches, 2014[.](https://app.box.com/s/mbmb2h06we9zxkzl0ecko4yxpn2tvbgo)
 
+* [MONK_2019] MONK, Simon. Programming Arduino Next Steps: Going Further with Sketches, 2. ed., 2019[.](https://app.box.com/s/onxakui60rfqif5jh7800uod4q9xtebm)
+
 <br>
