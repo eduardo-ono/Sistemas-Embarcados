@@ -8,10 +8,30 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <br>
 
+## Aula 1
+
+<br>
+
+## Aula 2
+
+* Programação em Arduino (Tinkercad)
+    * Saídas digitais
+        * Exemplo 01
+
+<br>
+
+## Aula 3
+
+* Programação em Arduino (Tinkercad)
+    * Análise de Desempenho
+        * Exemplo 02
+
+<br>
+
 ## Arduino (Tinkercad)
 
 <details>
-    <summary><strong>Aula 01 - Introdução ao Arduino UNO</strong></summary>
+    <summary><strong>Exemplo 01: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
 
 <a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
@@ -19,7 +39,26 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary><strong>Aula 02 - PWM</strong></summary>
+  <summary><strong>Exemplo 02: Programação em Arduino - Análise de Desempenho</strong></summary>
+
+  <p>Sketches (códigos do Arduino) que mostram o desempenho da saída nos pinos digitais de um Arduino UNO.</p>
+
+  <p>Exemplo-02a <a href="https://www.tinkercad.com/embed/dYpwVVIjdRJ?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/dYpwVVIjdRJ/t725.png?rev=1615404020685000000&s=&v=1&type=circuits" width="300px"></a></p>
+
+  <p>Exemplo-02b <a href="https://www.tinkercad.com/embed/crsNsp3ikYy?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/crsNsp3ikYy/t725.png?rev=1615406252363000000&s=&v=1&type=circuits" width="300px"></a></p>
+
+  <p>Exemplo-02c <a href="https://www.tinkercad.com/embed/8J1feDX9XIs?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/8J1feDX9XIs/t725.png?rev=1615403110039000000&s=&v=1&type=circuits" width="300px"></a></p>
+
+  <p>Exemplo-02d <a href="https://www.tinkercad.com/embed/9cyLIHUxGod?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/9cyLIHUxGod/t725.png?rev=1615405117729000000&s=&v=1&type=circuits" width="300px"></a></p>
+
+</details>
+
+<details>
+  <summary><strong>Exemplo 03: PWM</strong></summary>
 
   <p>Circuito que mostra as ondas quadradas (PWM) produzidas pela função analogWrite() nos 
   pinos 3, 9, 10 e 11 (f = 490 Hz) e nos pinos 5 e 6 (f = 980 Hz).</p>
@@ -30,7 +69,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-    <summary><strong>Aula 03 - LED RGB</strong></summary>
+    <summary><strong>Exemplo 04: LED RGB</strong></summary>
     <section>
     <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
@@ -38,7 +77,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-    <summary><strong>Aula 04 - Display LCD</strong></summary>
+    <summary><strong>Exemplo 05: Display LCD</strong></summary>
     <a href="https://www.tinkercad.com/embed/e3wz9LD8NR0?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/e3wz9LD8NR0/t725.png?rev=1606162539897000000&s=&v=1&type=circuits" width="300px"></a>
     <a href="https://www.tinkercad.com/embed/dDb5BsbxPrr?editbtn=1" target="_blank">

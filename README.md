@@ -14,12 +14,14 @@ Aula | Data  | Conteúdo
 ---  | ---   | ---
  01  | 24/02 | Overview: Conceitos e Aplicações de Sistemas Embarcados
  02  | 03/03 | Introdução ao Arduino: Placas, IDE e API
- 03  | ---   | Conversores: Analógico-Digital (ADC) e Digital-Analógico (DAC)
- 04  | ---   | Pulse Width Modulation (PWM)
- 05  | ---   | Sensores e Atuadores: Conceitos e Aplicações
- 06  | ---   | Exemplos de usos de Sensores e Atuadores
- 07  | ---   | Raspberry Pi
- 08  | ---   | IoT
+ 03  | 10/03 | Programação em Arduino: Análise de desempenho
+     | ---   | Conversores: Analógico-Digital (ADC) e Digital-Analógico (DAC)
+     | ---   | Pulse Width Modulation (PWM)
+     | ---   | Sensores e Atuadores: Conceitos e Aplicações
+     | ---   | Exemplos de usos de Sensores e Atuadores
+     | 14/03 | 1a. Avaliação
+     | ---   | Raspberry Pi
+     | ---   | IoT
 
 <br>
 
