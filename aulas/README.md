@@ -45,18 +45,16 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 ## Aula 05: Pulse Width Modulation (PWM)
 
 * Modulação por Largura de Pulso
-    * Exemplos no Arduino UNO
-        * <a href="#pwm-01">pwm-01</a>
-        * <a href="#pwm-02">pwm-02</a>
+    * Exemplos: <a href="#pwm">Arduino UNO - PWM</a>
 
 <br>
 
 ## Arduino (Tinkercad)
 
 <details>
-    <summary><strong>Exemplo: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
+    <summary><strong>Exemplos: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
 
-<a id="pwm-01" href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
+<a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
 
 </details>
@@ -81,7 +79,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary><strong>Exemplo: Arduino UNO - PWM (Pulse Wisth Modulation)</strong></summary>
+  <summary id="pwm"><strong>Exemplo: Arduino UNO - PWM (Pulse Wisth Modulation)</strong></summary>
 
   <a href="https://www.tinkercad.com/embed/aRuOAp1wZqU?editbtn=1" target="_blank">
   <img src="https://csg.tinkercad.com/things/aRuOAp1wZqU/t725.png?rev=1616007332310000000&s=&v=1&type=circuits" width="300px"></a>
