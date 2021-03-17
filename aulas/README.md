@@ -28,18 +28,41 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <br>
 
+## Aula 04: Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
+
+* Conversor Analógico-Digital (ADC ou conversor A/D)
+    * Referências
+        * IDOETA_2008, pp. 328-335.
+    * Vídeos
+        * [Brincando com Ideias] [Como trabalha a porta analógica do Arduino por dentro?](https://www.youtube.com/watch?v=LpvuQbLsm90) (YouTube, 13:45, Ago/2019)
+
+* Conversor Digital-Analógico (DAC ou conversor D/A)
+    * Referências
+        * IDOETA_2008, pp. 303-328.
+
+<br>
+
+## Aula 05: Pulse Width Modulation (PWM)
+
+* Modulação por Largura de Pulso
+    * Exemplos no Arduino UNO
+        * <a href="#pwm-01">pwm-01</a>
+        * <a href="#pwm-02">pwm-02</a>
+
+<br>
+
 ## Arduino (Tinkercad)
 
 <details>
-    <summary><strong>Exemplo 01: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
+    <summary><strong>Exemplo: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
 
-<a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
+<a id="pwm-01" href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
 
 </details>
 
 <details>
-  <summary><strong>Exemplo 02: Programação em Arduino - Análise de Desempenho</strong></summary>
+  <summary><strong>Exemplo: Programação em Arduino - Análise de Desempenho</strong></summary>
 
   <p>Sketches (códigos do Arduino) que mostram o desempenho da saída nos pinos digitais de um Arduino UNO.</p>
 
@@ -58,7 +81,10 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary><strong>Exemplo 03: PWM</strong></summary>
+  <summary><strong>Exemplo: Arduino UNO - PWM (Pulse Wisth Modulation)</strong></summary>
+
+  <a href="https://www.tinkercad.com/embed/aRuOAp1wZqU?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/aRuOAp1wZqU/t725.png?rev=1616007332310000000&s=&v=1&type=circuits" width="300px"></a>
 
   <p>Circuito que mostra as ondas quadradas (PWM) produzidas pela função analogWrite() nos 
   pinos 3, 9, 10 e 11 (f = 490 Hz) e nos pinos 5 e 6 (f = 980 Hz).</p>
