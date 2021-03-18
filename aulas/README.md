@@ -81,8 +81,9 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 <details>
   <summary id="pwm"><strong>Exemplo: Arduino UNO - PWM (Pulse Wisth Modulation)</strong></summary>
 
-  <a href="https://www.tinkercad.com/embed/aRuOAp1wZqU?editbtn=1" target="_blank">
-  <img src="https://csg.tinkercad.com/things/aRuOAp1wZqU/t725.png?rev=1616007332310000000&s=&v=1&type=circuits" width="300px"></a>
+  <p>pwm-01</p>
+  <a href="https://www.tinkercad.com/embed/1n7fByc7bgs?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/1n7fByc7bgs/t725.png?rev=1616007332310000000&s=&v=1&type=circuits" width="300px"></a>
 
   <p>Circuito que mostra as ondas quadradas (PWM) produzidas pela função analogWrite() nos 
   pinos 3, 9, 10 e 11 (f = 490 Hz) e nos pinos 5 e 6 (f = 980 Hz).</p>
