@@ -8,51 +8,51 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <br>
 
-## Aula 1
+## Aula 1: Conceitos e Aplicações de Sistemas Embarcados
 
 <br>
 
-## Aula 2
+## Aula 02: Programação em Arduino (Tinkercad)
 
-* Programação em Arduino (Tinkercad)
-    * Saídas digitais
-        * Exemplo 01
+  * Saídas digitais
+    * Exemplos: Programação em Arduino UNO: Saídas digitais e medidas de corrente e tensão
 
 <br>
 
-## Aula 3
+## Aula 03: Programação em Arduino - Análise de Desempenho de E/S
 
-* Programação em Arduino (Tinkercad)
-    * Análise de Desempenho
-        * Exemplo 02
+  * Programação em Arduino (Tinkercad)
+  * Análise de Desempenho
+    * Exemplos: Programação em Arduino - Análise de Desempenho
 
 <br>
 
 ## Aula 04: Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
 
-* Conversor Analógico-Digital (ADC ou conversor A/D)
+  * <b>Conversor Analógico-Digital (ADC ou conversor A/D)</b>
+    * Método das Aproximações Secessivas
     * Referências
-        * IDOETA_2008, pp. 328-335.
+      * IDOETA_2008, pp. 328-335.
     * Vídeos
-        * [Brincando com Ideias] [Como trabalha a porta analógica do Arduino por dentro?](https://www.youtube.com/watch?v=LpvuQbLsm90) (YouTube, 13:45, Ago/2019)
+      * [Brincando com Ideias] [Como trabalha a porta analógica do Arduino por dentro?](https://www.youtube.com/watch?v=LpvuQbLsm90) (YouTube, 13:45, Ago/2019)
 
-* Conversor Digital-Analógico (DAC ou conversor D/A)
+  * Conversor Digital-Analógico (DAC ou conversor D/A)
     * Referências
-        * IDOETA_2008, pp. 303-328.
+      * [IDOETA-40e_2008], pp. 303-328.
 
 <br>
 
 ## Aula 05: Pulse Width Modulation (PWM)
 
-* Modulação por Largura de Pulso
+  * **Modulação por Largura de Pulso**
     * Exemplos: <a href="#pwm">Arduino UNO - PWM</a>
 
 <br>
 
-## Arduino (Tinkercad)
+## Programação no Arduino (Tinkercad)
 
 <details>
-    <summary><strong>Exemplos: Arduino UNO - Saídas digitais e medidas de tensão e corrente</strong></summary>
+    <summary><strong>Exemplos: Arduino UNO - Saídas digitais e medidas de e tensão</strong></summary>
 
 <a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
@@ -60,7 +60,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary><strong>Exemplo: Programação em Arduino - Análise de Desempenho</strong></summary>
+  <summary><strong>Exemplos: Programação em Arduino - Análise de Desempenho</strong></summary>
 
   <p>Sketches (códigos do Arduino) que mostram o desempenho da saída nos pinos digitais de um Arduino UNO.</p>
 
