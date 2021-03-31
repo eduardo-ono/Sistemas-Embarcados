@@ -45,8 +45,27 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 ## Aula 05: Pulse Width Modulation (PWM)
 
   * **Modulação por Largura de Pulso**
-    * Exemplos: <a href="#pwm">Arduino UNO - PWM</a>
+    * Vídeos de Apoio:
+      * [Electrolab] [O que é PWM?](https://www.youtube.com/watch?v=qVmE9R5-I8A) (YouTube, 21:57, Nov/2019)
+    * Exemplos - Programação em Arduino
+      * <a href="#pwm">Arduino UNO - PWM</a>
 
+<br>
+
+## Aula 06: Funções analogWrite() e map() / POO em C++
+
+  * API do Arduino
+    * Função analogWrite()
+      * https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+    * Função map()
+      * https://www.arduino.cc/reference/en/language/functions/math/map/
+    * Exemplos - Programação em Arduino
+      * Controle da luminosidade de um LED
+      * Controle de um servo motor
+
+  * Programação Orientada a Objeto em C++ para Arduino
+    * Classes e Objetos
+    
 <br>
 
 ## Programação no Arduino (Tinkercad)
@@ -90,6 +109,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
   <a href="https://www.tinkercad.com/embed/dYpwVVIjdRJ?editbtn=1" target="_blank">
   <img src="https://csg.tinkercad.com/things/dYpwVVIjdRJ/t725.png?rev=1605577392237000000&s=&v=1&type=circuits" width="300px"></a>
+
+  <p>Controle da luminosidade de um LED usando a API do Arduino.</p>
+  <a href="https://www.tinkercad.com/embed/5gqzdcDJm4N?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/5gqzdcDJm4N/t725.png?rev=1617222864222000000&s=&v=1&type=circuits" width="300px"></a>
+
+  <p>Controle de um servo motor usando a API do Arduino.</p>
+  <a href="https://www.tinkercad.com/embed/5gqzdcDJm4N?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/7B1wOmfgCKt/t725.png?rev=1617225111249000000&s=&v=1&type=circuits" width="300px"></a>
 
 </details>
 

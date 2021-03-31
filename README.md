@@ -60,6 +60,12 @@ Aula | Data  | Conteúdo
 
 ## Vídeos Recomendados
 
+| Thumb | Descrição |
+| :-: | --- |
+| [![Thumb](https://img.youtube.com/vi/81q9kBRQt1E/default.jpg)](https://www.youtube.com/watch?v=81q9kBRQt1E) | [Pianistos] [**[HQ] Someone like you - Adele (Piano cover)**](https://www.youtube.com/watch?v=81q9kBRQt1E) (YouTube, 5:02, Dez/2015)
+| [![Thumb](https://img.youtube.com/vi/Vn39txtVIHc/default.jpg)](https://www.youtube.com/watch?v=Vn39txtVIHc) | [Pianistos] [**3D Spectrum Analyser (1280 LEDs) - MAKING OF**](https://www.youtube.com/watch?v=Vn39txtVIHc) (YouTube, 22:56, Jan/2015)
+| [![Thumb](https://img.youtube.com/vi/COPaqJBekBQ/default.jpg)](https://www.youtube.com/watch?v=COPaqJBekBQ) | [ElectroSmash] [**pedalSHIELD DUE Arduino Guitar Pedal**](https://www.youtube.com/watch?v=COPaqJBekBQ) (YouTube, 2:20, Dez/2013)
+
 <br>
 
 ## Filmes e Documentários Recomendados
