@@ -63,7 +63,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
       * Controle da luminosidade de um LED
       * Controle de um servo motor
 
-  * Programação Orientada a Objeto em C++ para Arduino
+  * Uso de Classes e Objetos na Programação em C++ para Arduino
     * Classes e Objetos
     
 <br>
