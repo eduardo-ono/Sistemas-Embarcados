@@ -1,6 +1,9 @@
 name: Embed code in README
 
 on:
+  push:
+    branches:
+      - master
   pull_request:
     branches:
       - master
