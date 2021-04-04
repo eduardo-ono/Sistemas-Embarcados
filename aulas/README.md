@@ -98,15 +98,13 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary id="pwm"><strong>Exemplo: Arduino UNO - PWM (Pulse Wisth Modulation)</strong></summary>
+  <summary id="pwm"><strong>Exemplo: Arduino UNO - PWM (Pulse Width Modulation)</strong></summary>
 
-  <p>pwm-01</p>
+  <p>Programa em C que gera uma saída PWM em um pino não PWM.</p>
   <a href="https://www.tinkercad.com/embed/1n7fByc7bgs?editbtn=1" target="_blank">
   <img src="https://csg.tinkercad.com/things/1n7fByc7bgs/t725.png?rev=1616007332310000000&s=&v=1&type=circuits" width="300px"></a>
 
-  <p>Circuito que mostra as ondas quadradas (PWM) produzidas pela função analogWrite() nos 
-  pinos 3, 9, 10 e 11 (f = 490 Hz) e nos pinos 5 e 6 (f = 980 Hz).</p>
-
+  <p>Circuito que mostra o sinal PWM produzido pela função analogWrite() nos pinos 3, 9, 10 e 11 (f = 490 Hz) e nos pinos 5 e 6 (f = 980 Hz).</p>
   <a href="https://www.tinkercad.com/embed/dYpwVVIjdRJ?editbtn=1" target="_blank">
   <img src="https://csg.tinkercad.com/things/dYpwVVIjdRJ/t725.png?rev=1605577392237000000&s=&v=1&type=circuits" width="300px"></a>
 
@@ -122,6 +120,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
     <summary><strong>Exemplo 04: LED RGB</strong></summary>
+    <section>
+    <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
+    <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
+    </section>
+</details>
+
+<details>
+    <summary><strong>Exemplo: Arduino Uno - POO para controle de LED RGB</strong></summary>
     <section>
     <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
