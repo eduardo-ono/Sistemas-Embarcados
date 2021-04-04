@@ -10,7 +10,7 @@ Prof. Eduardo Ono
 
 ### Bibliotecas
 
-```cpp:exemplo-cpp-opp-01.cpp
+```cpp:exemplo-cpp-poo-01.cpp
 ```
 
 ### Atributos de uma classe
