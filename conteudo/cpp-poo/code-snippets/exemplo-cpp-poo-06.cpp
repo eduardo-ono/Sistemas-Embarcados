@@ -49,7 +49,10 @@ public:
 }; // Paciente
 
 int main() {
+  // Objeto criado no "heap".
   Paciente paciente("Fulano de Tal", 68, 1.75);
+  // Acesso aos membros é feito através de um "." (ponto).
+  paciente.setPeso(70);
   cout << paciente.getNome() << endl;
   cout << paciente.getImc() << endl;
   return 0;

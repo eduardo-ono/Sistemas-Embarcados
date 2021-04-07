@@ -3,14 +3,14 @@
 using namespace std;
 
 class Paciente {
-  // Membros privados por "default"
+  // Os membros da classe (atributis e métodos) são privados por "default".
   string nome;
   float peso;
   float altura;
-  float imc;
+  float imc = 0;
 };
 
 int main() {
   Paciente paciente;
-  paciente.nome = "Fulano"; // ERRO, pois nome é acessível diretamente pelo objeto (privado)
+  paciente.nome = "Fulano"; // ERRO! "nome" (atributo privado) não é acessível diretamente pelo objeto
 }

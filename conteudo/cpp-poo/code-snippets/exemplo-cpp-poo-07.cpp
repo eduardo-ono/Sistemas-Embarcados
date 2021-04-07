@@ -49,7 +49,9 @@ public:
 };
 
 int main() {
+  // Objeto criado na "stack".
   Paciente *paciente = new Paciente("Fulano de Tal", 68, 1.75);
+  // Acesso aos membros é feito através da seta "->" (seta).
   cout << paciente->getNome() << endl;
   cout << paciente->getImc() << endl;
   delete(paciente);
