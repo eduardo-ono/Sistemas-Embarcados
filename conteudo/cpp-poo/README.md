@@ -6,18 +6,34 @@ Prof. Eduardo Ono
 
 <br>
 
-## Classes
+## Paradigma Estruturado/Imperativo
 
-### Bibliotecas
+```cpp
+#include <iostream>
 
-```cpp:exemplo-cpp-poo-01.cpp
+using namespace std;
+
+int main(void)
+{
+    string nome = "Fulano de Tal";
+    float peso = 68.0;
+    float altura = 1.75;
+    float imc;
+
+    imc = peso / (altura * altura);
+    cout << "Nome: " << nome << endl << "IMC = " << imc << endl;
+
+    return 0;
+}
 ```
 
-### Atributos de uma classe
+## POO
+
+### Classes e seus Atributos
 
 ```cpp
 class Paciente {
-  // Membros privados por "default"
+  // Os membros são privados por "default"
   string nome;
   float peso;
   float altura;
@@ -26,11 +42,17 @@ class Paciente {
 
 int main() {
   Paciente paciente;
-  paciente.nome = "Fulano"; // ERRO, pois nome é acessível diretamente pelo objeto (privado)
+  paciente.nome = "Fulano"; // ERRO! "nome" não pode ser acessado diretamente pelo objeto
+
+  return 0;
 }
+
 ```
 
-```c++
+```cpp:exemplo-cpp-poo-03.cpp
+#include <iostream>
+using namespace std;
+
 class Paciente {
 public:
   string nome;
@@ -45,13 +67,16 @@ int main() {
   paciente.nome = "Fulano de Tal";
   paciente.peso = 68; // kg
   paciente.altura = 1.75; // metros
-  paciente.imc = 50; // ERRO! Atributo privado
+  // paciente.imc = 50; // ERRO! Atributo privado
+  int imc = paciente.peso / (paciente.altura * paciente.altura);
+  cout << paciente.nome << endl << "IMC = " << imc << endl;
+  return 0;
 }
 ```
 
 ### Construtores
 
-```c++
+```cpp:exemplo-cpp-poo-04.cpp
 class Paciente {
 private:
   string nome;
@@ -65,15 +90,17 @@ private:
     this->peso = peso;
     this->altura = altura;
   }
-
 };
 
 int main() {
   Paciente paciente("Fulano de Tal", 68, 1.75);
+
+  return 0;
 }
+
 ```
 
-```c++
+```cpp:exemplo-cpp-poo-05.cpp
 class Paciente {
   string nome;
   float peso;
@@ -102,7 +129,7 @@ int main() {
 
 ### Getters e Setters
 
-```c++
+```cpp:exemplo-cpp-poo-06.cpp
 class Paciente {
   string nome;
   float peso;
@@ -113,6 +140,65 @@ class Paciente {
   Paciente(string nome, float peso, float altura) {
     setNome(nome);
     setpeso(peso);
+    setAltura(altura);
+  }
+
+  // Getters
+  string getNome() { return nome; }
+  float getPeso() { return peso; }
+  float getAltura() { return altura; }
+  float getImc() { return imc; }
+
+  // Setters
+  void setNome(string nome) {
+    this->nome = nome;
+  }
+
+  // Métodos
+  void setPeso(float peso) {
+    if (peso > 0) {
+      this->peso = peso;
+      calcularImc();
+    }
+  }
+
+  void setAltura(float altura) {
+    if (altura > 0) {
+      this->altura = altura;
+      calcularImc();
+    }
+  }
+
+  calcularImc() {
+    if (peso > 0 && altura > 0)
+      imc = peso / (altura * altura);
+  }
+};
+
+int main() {
+  Paciente paciente("Fulano de Tal", 68, 1.75);
+  cout << paciente.imc << endl;
+  return 0;
+}
+```
+
+```cpp
+// exemplo-cpp-poo-07.cpp
+#include <iostream>
+using namespace std;
+
+class Paciente {
+private:
+  string nome;
+  float peso;
+  float altura;
+  float imc = 0;
+
+public:
+  // Construtor
+  Paciente(string nome, float peso, float altura) {
+    setNome(nome);
+    setPeso(peso);
     setAltura(altura);
   }
 
@@ -141,14 +227,17 @@ class Paciente {
     }
   }
 
-  calcularImc() {
+  void calcularImc() {
     if (peso > 0 && altura > 0)
       imc = peso / (altura * altura);
   }
 };
 
 int main() {
-  Paciente paciente("Fulano de Tal", 68, 1.75);
-  cout << paciente.imc << endl;
+  Paciente *paciente = new Paciente("Fulano de Tal", 68, 1.75);
+  cout << paciente->getNome() << endl;
+  cout << paciente->getImc() << endl;
+  delete(paciente);
+  return 0;
 }
 ```
