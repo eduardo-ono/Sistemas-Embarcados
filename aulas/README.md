@@ -1,4 +1,4 @@
-### Sistemas Embarcados
+> ### Sistemas Embarcados
 
 # Aulas
 
@@ -8,26 +8,49 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <br>
 
-## Aula 1: Conceitos e Aplicações de Sistemas Embarcados
-
+## Conteúdo
 <br>
 
-## Aula 02: Programação em Arduino (Tinkercad)
+<details>
+  <summary>
+    <strong><img alt="Aula 01 - Conceitos e Aplicações de Sistemas Embarcados" width="720" height="30"></strong>
+  </summary>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <strong><img alt="Aula 02 - Programação em Arduino (Tinkercad)" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
 
   * Saídas digitais
     * Exemplos: Programação em Arduino UNO: Saídas digitais e medidas de corrente e tensão
 
-<br>
+  </section>
+  <br>
+</details>
 
-## Aula 03: Programação em Arduino - Análise de Desempenho de E/S
+<details>
+  <summary>
+    <strong><img alt="Aula 03 - Programação em Arduino - Análise de Desempenho de E/S" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
+
 
   * Programação em Arduino (Tinkercad)
   * Análise de Desempenho
     * Exemplos: Programação em Arduino - Análise de Desempenho
 
-<br>
+  </section>
+  <br>
+</details>
 
-## Aula 04: Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
+<details>
+  <summary>
+    <strong><img alt="Aula 04 - Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
 
   * <b>Conversor Analógico-Digital (ADC ou conversor A/D)</b>
     * Método das Aproximações Secessivas
@@ -40,9 +63,15 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Referências
       * [IDOETA-40e_2008], pp. 303-328.
 
-<br>
+  </section>
+  <br>
+</details>
 
-## Aula 05: Pulse Width Modulation (PWM)
+<details>
+  <summary>
+    <strong><img alt="Aula 05 - Pulse Width Modulation (PWM)" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
 
   * **Modulação por Largura de Pulso**
     * Vídeos de Apoio:
@@ -50,9 +79,15 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Exemplos - Programação em Arduino
       * <a href="#pwm">Arduino UNO - PWM</a>
 
-<br>
+  </section>
+  <br>
+</details>
 
-## Aula 06: Funções analogWrite() e map() / POO em C++
+<details>
+  <summary>
+    <strong><img alt="Aula 06 - Funções analogWrite() e map() / POO em C++" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
 
   * API do Arduino
     * Função analogWrite()
@@ -65,7 +100,41 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
   * Uso de Classes e Objetos na Programação em C++ para Arduino
     * Classes e Objetos
-    
+
+  </section>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <strong><img alt="Aula 07 - Introdução à Programação Orientada a Objeto em C++" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
+
+  * Classes e Objetos; Modificadores de Acesso; Contrutores; Getters e Setters
+    * Vídeo Aula Recomendada
+      * [freeCodeCamp.org] [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4) (YouTube, 1:30:25, Fev/2021)
+
+  </section>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <strong><img alt="Aula ?? - Multitarefa com ESP32 e FreeRTOS" width="720" height="30"></strong>
+  </summary>
+  <section markdown="1">
+
+  * Vídeo Aulas
+
+  |||
+  |  :-:  | --- |
+  | ![img](https://img.youtube.com/vi/684KSAvYbw4/default.jpg) | [Andreas Spiess] [**How to work with a Real Time Operating System and is it any good? (FreeRTOS, ESP32)**](https://www.youtube.com/watch?v=684KSAvYbw4) (YouTube, 23:34, Abr/2021)
+
+  <br>
+  </section>
+</details>
+
 <br>
 
 ## Programação no Arduino (Tinkercad)

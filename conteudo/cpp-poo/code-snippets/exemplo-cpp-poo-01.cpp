@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip> // setprecision()
+#include <math.h>
 
 using namespace std;
 
@@ -18,7 +19,7 @@ int main(void)
 	cin >> altura;
 	if (peso > 0 && altura > 0)
 	{
-		imc = peso / (altura * altura);
+		imc = peso / pow(altura, 2);
 	}
 	cout << "Nome: " << nome << endl << "IMC = " << fixed << setprecision(1) << imc << endl;
 	cout << "O nome possui " << nome.length() << " caracteres" << endl;
