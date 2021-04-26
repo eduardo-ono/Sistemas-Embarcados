@@ -20,7 +20,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 02 - Programação em Arduino (Tinkercad)" width="720" height="30"></strong>
+    <strong>Aula 02 - Programação em Arduino (Tinkercad)</strong>
   </summary>
   <section markdown="1">
 
