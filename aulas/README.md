@@ -13,7 +13,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 01 - Conceitos e Aplicações de Sistemas Embarcados" width="720" height="30"></strong>
+    <strong>Aula 01 - Conceitos e Aplicações de Sistemas Embarcados</strong>
   </summary>
   <br>
 </details>
@@ -33,7 +33,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 03 - Programação em Arduino - Análise de Desempenho de E/S" width="720" height="30"></strong>
+    <strong>Aula 03 - Programação em Arduino - Análise de Desempenho de E/S"</strong>
   </summary>
   <section markdown="1">
 
@@ -48,7 +48,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 04 - Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)" width="720" height="30"></strong>
+    <strong>Aula 04 - Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)</strong>
   </summary>
   <section markdown="1">
 
@@ -69,7 +69,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 05 - Pulse Width Modulation (PWM)" width="720" height="30"></strong>
+    <strong>Aula 05 - Pulse Width Modulation (PWM)</strong>
   </summary>
   <section markdown="1">
 
@@ -85,7 +85,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 06 - Funções analogWrite() e map() / POO em C++" width="720" height="30"></strong>
+    <strong>Aula 06 - Funções analogWrite() e map() / POO em C++</strong>
   </summary>
   <section markdown="1">
 
@@ -107,7 +107,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula 07 - Introdução à Programação Orientada a Objeto em C++" width="720" height="30"></strong>
+    <strong>Aula 07 - Introdução à Programação Orientada a Objeto em C++</strong>
   </summary>
   <section markdown="1">
 
@@ -121,7 +121,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong><img alt="Aula ?? - Multitarefa com ESP32 e FreeRTOS" width="720" height="30"></strong>
+    <strong>Aula ?? - Multitarefa com ESP32 e FreeRTOS"</strong>
   </summary>
   <section markdown="1">
 
