@@ -13,14 +13,20 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula 01 - Conceitos e Aplicações de Sistemas Embarcados</strong>
+    <strong>Aula 01</strong>
+
+  | Conceitos e Aplicações de Sistemas Embarcados
+  ---
   </summary>
   <br>
 </details>
 
 <details>
   <summary>
-    <strong>Aula 02 - Programação em Arduino (Tinkercad)</strong>
+    <strong>Aula 02</strong>
+
+  | Programação em Arduino (Tinkercad)
+  ---
   </summary>
   <section markdown="1">
 
@@ -33,10 +39,12 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula 03 - Programação em Arduino - Análise de Desempenho de E/S"</strong>
+    <strong>Aula 03</strong>
+
+  * ### Programação em Arduino - Análise de Desempenho de E/S
+  ---
   </summary>
   <section markdown="1">
-
 
   * Programação em Arduino (Tinkercad)
   * Análise de Desempenho
@@ -48,11 +56,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula 04 - Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)</strong>
+    <strong>Aula 04</strong>
+
+  * ### Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
+  ---
   </summary>
   <section markdown="1">
 
-  * <b>Conversor Analógico-Digital (ADC ou conversor A/D)</b>
+  * **Conversor Analógico-Digital (ADC ou conversor A/D)**
     * Método das Aproximações Secessivas
     * Referências
       * IDOETA_2008, pp. 328-335.
@@ -69,23 +80,28 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula 05 - Pulse Width Modulation (PWM)</strong>
+    <strong>Aula 05</strong>
+
+  * ### Pulse Width Modulation (PWM)
+  ---
   </summary>
   <section markdown="1">
 
   * **Modulação por Largura de Pulso**
-    * Vídeos de Apoio:
+    * Vídeo Aulas:
       * [Electrolab] [O que é PWM?](https://www.youtube.com/watch?v=qVmE9R5-I8A) (YouTube, 21:57, Nov/2019)
     * Exemplos - Programação em Arduino
       * <a href="#pwm">Arduino UNO - PWM</a>
-
+  ---
   </section>
-  <br>
 </details>
 
 <details>
   <summary>
-    <strong>Aula 06 - Funções analogWrite() e map() / POO em C++</strong>
+    <strong>Aula 06</strong>
+
+  * ### Funções analogWrite() e map() / POO em C++
+  ---
   </summary>
   <section markdown="1">
 
@@ -107,7 +123,10 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula 07 - Introdução à Programação Orientada a Objeto em C++</strong>
+    <strong>Aula 07</strong>
+
+  * ### Introdução à Programação Orientada a Objeto em C++
+  ---
   </summary>
   <section markdown="1">
 
@@ -121,15 +140,41 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Aula ?? - Multitarefa com ESP32 e FreeRTOS"</strong>
+    <strong>Aula 08</strong>
+
+  * ### Botões (Push Buttons); Resistores Pull-Up e Pull-Down
+  ---
+  </summary>
+  <section markdown="1">
+
+  * ---
+  * #### Vídeo Aulas
+    ||
+    | --- |
+    | Resistores Pull-Up e Pull-Down |
+    | [![img](https://img.youtube.com/vi/mpbRKHeIYYM/default.jpg)](https://www.youtube.com/watch?v=mpbRKHeIYYM "[Brincando com Ideias] O que é Pull Up e Pull Down? \|\| YouTube, 11:47, Jul/2016")  [![img](https://img.youtube.com/vi/MJCn5GSyz54/default.jpg)](https://www.youtube.com/watch?v=MJCn5GSyz54 "[WR Kits] RESISTORES DE PULL-UP E PULL-DOWN \| Fast Lesson #94 \|\| YouTube, 9:28, Fev/2015")
+    | Botões (Push Button) |
+    | [![img](https://img.youtube.com/vi/mpbRKHeIYYM/default.jpg)](https://www.youtube.com/watch?v=mpbRKHeIYYM "[Brincando com Ideias] O que é Pull Up e Pull Down? \| (YouTube, 11:47, Jul/2016)")
+
+  ---
+  </section>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <strong>Aula ??</strong>
+
+  * ### Multitarefa com ESP32 e FreeRTOS
+  ---
   </summary>
   <section markdown="1">
 
   * Vídeo Aulas
 
-  |||
-  |  :-:  | --- |
-  | ![img](https://img.youtube.com/vi/684KSAvYbw4/default.jpg) | [Andreas Spiess] [**How to work with a Real Time Operating System and is it any good? (FreeRTOS, ESP32)**](https://www.youtube.com/watch?v=684KSAvYbw4) (YouTube, 23:34, Abr/2021)
+    |||
+    |  :-:  | --- |
+    | ![img](https://img.youtube.com/vi/684KSAvYbw4/default.jpg) | [Andreas Spiess] [**How to work with a Real Time Operating System and is it any good? (FreeRTOS, ESP32)**](https://www.youtube.com/watch?v=684KSAvYbw4) (YouTube, 23:34, Abr/2021)
 
   <br>
   </section>
