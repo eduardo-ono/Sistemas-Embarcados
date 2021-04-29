@@ -15,7 +15,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 01</strong>
 
-  | Conceitos e Aplicações de Sistemas Embarcados
+  ### Conceitos e Aplicações de Sistemas Embarcados
   ---
   </summary>
   <br>
