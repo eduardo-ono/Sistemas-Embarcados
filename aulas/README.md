@@ -25,7 +25,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 02</strong>
 
-  | Programação em Arduino (Tinkercad)
+  ### Programação em Arduino (Tinkercad)
   ---
   </summary>
   <section markdown="1">
@@ -41,7 +41,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 03</strong>
 
-  * ### Programação em Arduino - Análise de Desempenho de E/S
+  ### Programação em Arduino - Análise de Desempenho de E/S
   ---
   </summary>
   <section markdown="1">
@@ -58,7 +58,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 04</strong>
 
-  * ### Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
+  ### Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
   ---
   </summary>
   <section markdown="1">
@@ -82,7 +82,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 05</strong>
 
-  * ### Pulse Width Modulation (PWM)
+  ### Pulse Width Modulation (PWM)
   ---
   </summary>
   <section markdown="1">
@@ -100,7 +100,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 06</strong>
 
-  * ### Funções analogWrite() e map() / POO em C++
+  ### Funções analogWrite() e map() / POO em C++
   ---
   </summary>
   <section markdown="1">
@@ -125,7 +125,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 07</strong>
 
-  * ### Introdução à Programação Orientada a Objeto em C++
+  ### Introdução à Programação Orientada a Objeto em C++
   ---
   </summary>
   <section markdown="1">
@@ -142,12 +142,11 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Aula 08</strong>
 
-  * ### Botões (Push Buttons); Resistores Pull-Up e Pull-Down
+  ### Botões (Push Buttons); Resistores Pull-Up e Pull-Down
   ---
   </summary>
   <section markdown="1">
 
-  * ---
   * #### Vídeo Aulas
     ||
     | --- |
