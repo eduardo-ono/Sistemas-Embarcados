@@ -162,9 +162,28 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
+    <strong>Aula 09</strong>
+
+  ### Interrupções e Timers
+  ---
+  </summary>
+  <section markdown="1">
+
+* __Exemplos do Tinkercad__
+
+  <a href="https://www.tinkercad.com/embed/jjOBVt0Imcj?editbtn=1" target="_blank">
+<img src="https://csg.tinkercad.com/things/jjOBVt0Imcj/t725.png?rev=1620242332439000000&s=&v=1&type=circuits" width="300px"></a>
+
+
+  </section>
+  <br>
+</details>
+
+<details>
+  <summary>
     <strong>Aula ??</strong>
 
-  * ### Multitarefa com ESP32 e FreeRTOS
+  ### Multitarefa com ESP32 e FreeRTOS
   ---
   </summary>
   <section markdown="1">
@@ -240,11 +259,19 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-    <summary><strong>Exemplo: Arduino Uno - POO para controle de LED RGB</strong></summary>
+    <summary>
+      <strong>Exemplo: Arduino Uno - POO para controle de LED RGB</strong>
+    </summary>
     <section>
-    <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
-    <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
+      <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
+      <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
     </section>
+</details>
+
+<details>
+  <summary>
+    <strong>Exemplo:- Botões do tipo "push button"</strong>
+  </summary>
 </details>
 
 <details>

@@ -8,12 +8,11 @@ Prof. Eduardo Ono
 
 ## Multímetro
 
-
 ### Frequencímetro
 
-  * Nem todos os multímetros possuem a função de frequencímetro. Mas, para o estudo de Sistemas Emabarcados, essa função possibilita a medição do ciclo de trabalho (Duty Cycle) na técnica PWM.
+  * Nem todos os multímetros possuem a função de frequencímetro. Mas, para o estudo de Sistemas Emabarcados, essa função possibilita a medição do ciclo de trabalho (_Duty Cycle_) na técnica de PWM.
 
-  * Modelos de multímetro com frequencímetro
+  * Modelos de multímetro de baixo custo com frequencímetro
     * Minipa 1649 (até 10 Mhz)
     * Hikari 3090 (até 30 MHz)
 
@@ -21,7 +20,9 @@ Prof. Eduardo Ono
 
 ## Osciloscópio
 
-* [Electrolab] [Aprenda a usar o osciloscópio em 28 minutos!!](https://www.youtube.com/watch?v=Bp1f51YkEHs) (YouTube, 28:02, Ago/2017)
+|| Descrição |
+| :-: | --- |
+[![](https://img.youtube.com/vi/Bp1f51YkEHs/default.jpg)](https://www.youtube.com/watch?v=Bp1f51YkEHs) | [Electrolab] <br> [**Aprenda a usar o osciloscópio em 28 minutos!!**](https://www.youtube.com/watch?v=Bp1f51YkEHs) || 28:02, YouTube, Ago/2017.
 
 <br>
 

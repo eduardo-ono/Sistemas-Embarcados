@@ -36,4 +36,8 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-*
+| Capa | Descrição |
+| :-:  | --- |
+| <img src="../../referencias/capas/horstmann-3e_2005.jpg" width="150px"> | [HORSTMANN-3e_2005]<br><br>HORSTMANN, Cay; **Conceitos de Computação com o Essencial de C++, 3. ed.**, Porto Alegre: Bookman, 2005.
+
+<br>
