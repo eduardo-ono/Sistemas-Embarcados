@@ -10,7 +10,7 @@ public class Teste {
         jFrame.setSize(640, 480);
         JPanel jPanel = new JPanel();
         JLabel jLabel = new JLabel();
-        jLabel.setFont(new Font(jLabel.getName(), Font.PLAIN, 36));
+        jLabel.setFont(new Font(jLabel.getName(), jLabel.getFont().getStyle(), 36));
         jPanel.add(jLabel);
 
         JButton jButton = new JButton("Reset");
@@ -23,11 +23,12 @@ public class Teste {
 
         while (true)
         {
-            jLabel.setText("" + cont++ + " ");
+            jLabel.setText("" + cont + " ");
             try {
-                Thread.sleep(1000); // delay in ms
+                Thread.sleep(100); // delay in ms
             } catch (InterruptedException ex) {
             }
+            cont++;
         }
     } // main()
 

@@ -241,3 +241,11 @@ int main() {
   return 0;
 }
 ```
+
+## Vídeos Recomendados
+
+|| Descrição |
+| :-: | --- |
+[![](https://img.youtube.com/vi/wN0x9eZLix4/default.jpg)](https://www.youtube.com/watch?v=wN0x9eZLix4 "") | [freeCodeCamp.org] <br> [**Object Oriented Programming (OOP) in C++ Course**](https://www.youtube.com/watch?v=wN0x9eZLix4) \|\| 1:30:25, YouTube, Fev/2021.
+
+<br>

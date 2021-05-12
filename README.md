@@ -23,14 +23,14 @@ Prof. Eduardo Ono
 | -- | 21/04 | (Feriado)
 | 08 | 28/04 | Botões (push buttons); Resistores Pull-Up e Pull-Down
 | 09 | 05/05 | Timers e Interrupções
-| 10 | 12/05 | Programação Concorrente com FreeRTOS
+| 10 | 12/05 | Multitasking; Programação Concorrente com FreeRTOS
 | 11 | 19/05 | Protocolos de Comunicação
 | 12 | 26/05 | Raspberry Pi
 | -- | 02/06 | 2a. Avaliação
 
 <br>
 
-## Ambientes de Desenvolvimento
+## Recursos
 
 * https://www.arduino.cc
 * https://www.tinkercad.com

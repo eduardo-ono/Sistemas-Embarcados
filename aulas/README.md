@@ -12,21 +12,18 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 <br>
 
 <details>
-  <summary>
-    <strong>Aula 01</strong>
+  <summary>Aula 01
 
   ### Conceitos e Aplicações de Sistemas Embarcados
-  ---
   </summary>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 02</strong>
+  <summary>Aula 02
 
   ### Programação em Arduino (Tinkercad)
-  ---
   </summary>
   <section markdown="1">
 
@@ -34,12 +31,12 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Exemplos: Programação em Arduino UNO: Saídas digitais e medidas de corrente e tensão
 
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 03</strong>
+  <summary>Aula 03
 
   ### Programação em Arduino - Análise de Desempenho de E/S
   ---
@@ -51,15 +48,12 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Exemplos: Programação em Arduino - Análise de Desempenho
 
   </section>
-  <br>
 </details>
 
 <details>
-  <summary>
-    <strong>Aula 04</strong>
+  <summary>Aula 04
 
   ### Conversores Analógico-Digital (ADC) e Digital-Analógico (DAC)
-  ---
   </summary>
   <section markdown="1">
 
@@ -75,15 +69,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
       * [IDOETA-40e_2008], pp. 303-328.
 
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 05</strong>
+  <summary>Aula 05
 
   ### Pulse Width Modulation (PWM)
-  ---
   </summary>
   <section markdown="1">
 
@@ -96,12 +89,12 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   </section>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 06</strong>
+  <summary>Aula 06
 
   ### Funções analogWrite() e map() / POO em C++
-  ---
   </summary>
   <section markdown="1">
 
@@ -118,15 +111,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Classes e Objetos
 
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 07</strong>
+  <summary>Aula 07
 
   ### Introdução à Programação Orientada a Objeto em C++
-  ---
   </summary>
   <section markdown="1">
 
@@ -135,15 +127,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
       * [freeCodeCamp.org] [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4) (YouTube, 1:30:25, Fev/2021)
 
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 08</strong>
+  <summary>Aula 08
 
   ### Botões (Push Buttons); Resistores Pull-Up e Pull-Down
-  ---
   </summary>
   <section markdown="1">
 
@@ -157,15 +148,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
   ---
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula 09</strong>
+  <summary>Aula 09
 
   ### Interrupções e Timers
-  ---
   </summary>
   <section markdown="1">
 
@@ -174,17 +164,30 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <a href="https://www.tinkercad.com/embed/jjOBVt0Imcj?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/jjOBVt0Imcj/t725.png?rev=1620242332439000000&s=&v=1&type=circuits" width="300px"></a>
 
-
   </section>
-  <br>
 </details>
 
+---
+
 <details>
-  <summary>
-    <strong>Aula ??</strong>
+  <summary>Aula 10
+
+  ### Multitarefa no Arduino
+  </summary>
+  <section markdown="1">
+
+  <a href="https://www.tinkercad.com/embed/jO5S81C16F5?editbtn=1" target="_blank">
+<img src="https://csg.tinkercad.com/things/jO5S81C16F5/t725.png?rev=1620848995835000000&s=&v=1&type=circuits" width="300px"></a>
+
+  </section>
+</details>
+
+---
+
+<details>
+  <summary>Aula ??
 
   ### Multitarefa com ESP32 e FreeRTOS
-  ---
   </summary>
   <section markdown="1">
 
@@ -194,16 +197,19 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     |  :-:  | --- |
     | ![img](https://img.youtube.com/vi/684KSAvYbw4/default.jpg) | [Andreas Spiess] [**How to work with a Real Time Operating System and is it any good? (FreeRTOS, ESP32)**](https://www.youtube.com/watch?v=684KSAvYbw4) (YouTube, 23:34, Abr/2021)
 
-  <br>
   </section>
 </details>
 
+---
+
 <br>
 
-## Programação no Arduino (Tinkercad)
+## Exemplos de Programação no Arduino (Tinkercad)
 
 <details>
-    <summary><strong>Exemplos: Arduino UNO - Saídas digitais e medidas de e tensão</strong></summary>
+    <summary>
+      <strong>Arduino UNO - Saídas digitais e medidas de e tensão</strong>
+    </summary>
 
 <a href="https://www.tinkercad.com/embed/lzvgk5QKIiY?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/lzvgk5QKIiY/t725.png?rev=1605555086328000000&s=&v=1&type=circuits" width="300px"></a>
@@ -211,7 +217,9 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary><strong>Exemplos: Programação em Arduino - Análise de Desempenho</strong></summary>
+  <summary>
+    <strong>Programação em Arduino - Análise de Desempenho</strong>
+  </summary>
 
   <p>Sketches (códigos do Arduino) que mostram o desempenho da saída nos pinos digitais de um Arduino UNO.</p>
 
@@ -230,7 +238,9 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-  <summary id="pwm"><strong>Exemplo: Arduino UNO - PWM (Pulse Width Modulation)</strong></summary>
+  <summary id="pwm">
+    <strong>Arduino UNO - PWM (Pulse Width Modulation)</strong>
+  </summary>
 
   <p>Programa em C que gera uma saída PWM em um pino não PWM.</p>
   <a href="https://www.tinkercad.com/embed/1n7fByc7bgs?editbtn=1" target="_blank">
@@ -251,7 +261,9 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 </details>
 
 <details>
-    <summary><strong>Exemplo 04: LED RGB</strong></summary>
+    <summary>
+      <strong>LED RGB</strong>
+    </summary>
     <section>
     <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
@@ -260,7 +272,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
     <summary>
-      <strong>Exemplo: Arduino Uno - POO para controle de LED RGB</strong>
+      <strong>Arduino Uno - POO para controle de LED RGB</strong>
     </summary>
     <section>
       <a href="https://www.tinkercad.com/embed/goqAVZLDCzd?editbtn=1" target="_blank">
@@ -270,12 +282,14 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary>
-    <strong>Exemplo:- Botões do tipo "push button"</strong>
+    <strong>Botões do tipo "push button"</strong>
   </summary>
 </details>
 
 <details>
-    <summary><strong>Exemplo 05: Display LCD</strong></summary>
+    <summary>
+      <strong>Display LCD</strong>
+    </summary>
     <a href="https://www.tinkercad.com/embed/e3wz9LD8NR0?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/e3wz9LD8NR0/t725.png?rev=1606162539897000000&s=&v=1&type=circuits" width="300px"></a>
     <a href="https://www.tinkercad.com/embed/dDb5BsbxPrr?editbtn=1" target="_blank">
