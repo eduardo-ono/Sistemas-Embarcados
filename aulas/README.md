@@ -179,6 +179,11 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <a href="https://www.tinkercad.com/embed/jO5S81C16F5?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/jO5S81C16F5/t725.png?rev=1620848995835000000&s=&v=1&type=circuits" width="300px"></a>
 
+  * Exercício:
+
+    * Estabelecer um pulso no LED com duração de 500 ms e _duty cycle_ de 50 %.
+    * Eliminar o efeito de "flickering" no LCD, mantendo-o responsivo.
+
   </section>
 </details>
 
