@@ -118,13 +118,17 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 <details>
   <summary>Aula 07
 
-  ### Introdução à Programação Orientada a Objeto em C++
+  ### Introdução à Programação Orientada a Objetos em C++
   </summary>
   <section markdown="1">
 
   * Classes e Objetos; Modificadores de Acesso; Contrutores; Getters e Setters
-    * Vídeo Aula Recomendada
-      * [freeCodeCamp.org] [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4) (YouTube, 1:30:25, Fev/2021)
+
+  * Vídeos de Apoio
+
+    ||
+    | --- |
+    [![](https://img.youtube.com/vi/wN0x9eZLix4/default.jpg)](https://www.youtube.com/watch?v=wN0x9eZLix4 "[freeCodeCamp.org] Object Oriented Programming (OOP) in C++ Course \|\| 1:30:25, YouTube, Fev/2021.")
 
   </section>
 </details>
@@ -179,10 +183,12 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <a href="https://www.tinkercad.com/embed/jO5S81C16F5?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/jO5S81C16F5/t725.png?rev=1620848995835000000&s=&v=1&type=circuits" width="300px"></a>
 
-  * Vídeos Recomendados
+  * Vídeos de Apoio
 
-  | [![](https://img.youtube.com/vi/ma9phFzVIO0/default.jpg)](https://www.youtube.com/watch?v=ma9phFzVIO0 "") | [UNISAL] <br> [**Melhores Práticas de Projetos de Sistemas Embarcados com RTOS**](https://www.youtube.com/watch?v=ma9phFzVIO0) \|\| 1:21:30, YouTube, Mar/2021.
-  | :-: | --- |
+  | Projetos de Sistemas Embarcados com FreeRTOS |
+  | --- |
+  | [![](https://img.youtube.com/vi/ma9phFzVIO0/default.jpg)](https://www.youtube.com/watch?v=ma9phFzVIO0 "[UNISAL] Melhores Práticas de Projetos de Sistemas Embarcados com RTOS \|\| 1:21:30, YouTube, Mar/2021") . [![](https://img.youtube.com/vi/ibHPl2nLsq0/default.jpg)](https://www.youtube.com/watch?v=ibHPl2nLsq0 "[Arduino Brasil] PALESTRA: MELHORE SEUS PROJETOS ARDUINO USANDO FREERTOS (ARDUINO DAY VIRTUAL 2020 - PEDRO BERTOLETI) \|\| 39:03, YouTube, Out/2020")
+
 
   </section>
 </details>
