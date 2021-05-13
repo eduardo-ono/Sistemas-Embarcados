@@ -179,10 +179,10 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <a href="https://www.tinkercad.com/embed/jO5S81C16F5?editbtn=1" target="_blank">
 <img src="https://csg.tinkercad.com/things/jO5S81C16F5/t725.png?rev=1620848995835000000&s=&v=1&type=circuits" width="300px"></a>
 
-  * Exercício:
+  * Vídeos Recomendados
 
-    * Estabelecer um pulso no LED com duração de 500 ms e _duty cycle_ de 50 %.
-    * Eliminar o efeito de "flickering" no LCD, mantendo-o responsivo.
+  | [![](https://img.youtube.com/vi/ma9phFzVIO0/default.jpg)](https://www.youtube.com/watch?v=ma9phFzVIO0 "") | [UNISAL] <br> [**Melhores Práticas de Projetos de Sistemas Embarcados com RTOS**](https://www.youtube.com/watch?v=ma9phFzVIO0) \|\| 1:21:30, YouTube, Mar/2021.
+  | :-: | --- |
 
   </section>
 </details>
@@ -190,7 +190,31 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 ---
 
 <details>
-  <summary>Aula ??
+  <summary>Aula 11
+
+  ### Protocolos de Comunicação
+  </summary>
+  <section markdown="1">
+
+  </section>
+</details>
+
+---
+
+<details>
+  <summary>Aula 12
+
+  ### ESP32
+  </summary>
+  <section markdown="1">
+
+  </section>
+</details>
+
+---
+
+<details>
+  <summary>Aula 13
 
   ### Multitarefa com ESP32 e FreeRTOS
   </summary>
@@ -221,6 +245,8 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 </details>
 
+---
+
 <details>
   <summary>
     <strong>Programação em Arduino - Análise de Desempenho</strong>
@@ -241,6 +267,8 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <img src="https://csg.tinkercad.com/things/9cyLIHUxGod/t725.png?rev=1615405117729000000&s=&v=1&type=circuits" width="300px"></a></p>
 
 </details>
+
+---
 
 <details>
   <summary id="pwm">
@@ -265,6 +293,8 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 </details>
 
+---
+
 <details>
     <summary>
       <strong>LED RGB</strong>
@@ -274,6 +304,8 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     <img src="https://csg.tinkercad.com/things/goqAVZLDCzd/t725.png?rev=1605574358209000000&s=&v=1&type=circuits" width="300px"></a>
     </section>
 </details>
+
+---
 
 <details>
     <summary>
@@ -285,11 +317,15 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     </section>
 </details>
 
+---
+
 <details>
   <summary>
     <strong>Botões do tipo "push button"</strong>
   </summary>
 </details>
+
+---
 
 <details>
     <summary>
@@ -300,5 +336,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     <a href="https://www.tinkercad.com/embed/dDb5BsbxPrr?editbtn=1" target="_blank">
     <img src="https://csg.tinkercad.com/things/dDb5BsbxPrr/t725.png?rev=1606162539897000000&s=&v=1&type=circuits" width="300px"></a>
 </details>
+
+---
 
 <br>
