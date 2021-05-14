@@ -39,7 +39,6 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>Aula 03
 
   ### Programação em Arduino - Análise de Desempenho de E/S
-  ---
   </summary>
   <section markdown="1">
 
@@ -49,6 +48,8 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
   </section>
 </details>
+
+---
 
 <details>
   <summary>Aula 04
@@ -85,7 +86,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
       * [Electrolab] [O que é PWM?](https://www.youtube.com/watch?v=qVmE9R5-I8A) (YouTube, 21:57, Nov/2019)
     * Exemplos - Programação em Arduino
       * <a href="#pwm">Arduino UNO - PWM</a>
-  ---
+
   </section>
 </details>
 
@@ -150,7 +151,6 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     | Botões (Push Button) |
     | [![img](https://img.youtube.com/vi/mpbRKHeIYYM/default.jpg)](https://www.youtube.com/watch?v=mpbRKHeIYYM "[Brincando com Ideias] O que é Pull Up e Pull Down? \| (YouTube, 11:47, Jul/2016)")
 
-  ---
   </section>
 </details>
 
