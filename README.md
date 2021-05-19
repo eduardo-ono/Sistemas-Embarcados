@@ -35,6 +35,7 @@ Prof. Eduardo Ono
 
 * https://www.arduino.cc
 * https://www.tinkercad.com
+* [SimulIDE](https://www.simulide.com)
 * Placa Arduino Uno (opcional)
 
 <br>

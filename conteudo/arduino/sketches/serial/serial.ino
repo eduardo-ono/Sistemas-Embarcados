@@ -11,7 +11,7 @@ void loop()
 {
   static int state = 1;
   static int num = 0;
-  //digitalWrite(ledPin, state);
+  digitalWrite(ledPin, state);
   Serial.println(num);
   num++;
   if (num % 100 == 0)

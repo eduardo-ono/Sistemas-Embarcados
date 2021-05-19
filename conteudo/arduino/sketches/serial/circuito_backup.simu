@@ -1,5 +1,17 @@
 <circuit type="simulide_0.4" Speed_per="100" Speed_sps="1000000" animate="0" Simu_Step_nS="1000" noLinAcc="5" reactStep="50">
 
+Unique  Id: Node-44: 
+Circuit Id: Node-44
+<item Show_id="false" circRot="3.7103290488558765e-316" valLabely="0" mainComp="false" id="Node-44" rotation="0" labely="-24" x="-464" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-184" objectName="Node-44" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Node" labelx="-16" labelrot="0" valLabRot="0"/>
+
+Unique  Id: Voltimeter-41: 
+Circuit Id: Voltimeter-41
+<item Show_id="false" circRot="1" valLabely="0" mainComp="false" id="Voltimeter-41" rotation="0" labely="-40" x="-544" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-280" objectName="Voltimeter-41" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Voltimeter" labelx="-24" labelrot="0" valLabRot="0"/>
+
+Unique  Id: Servo-39: 
+Circuit Id: Servo-39
+<item Speed="0.20000000000000001" Show_id="true" circRot="4.2439915878593324e-314" valLabely="0" mainComp="false" id="Servo-39" rotation="0" labely="-40" x="-68" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-36" objectName="Servo-39" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Servo" labelx="-16" labelrot="0" valLabRot="0"/>
+
 Unique  Id: Oscope-2: 
 Circuit Id: Oscope-2
 <item Expand="true" vPos1="0" valLabRot="0" Show_id="false" x="-360" hTick1="1" boardPos="-1e+06,-1e+06" Trigger1="true" Basic_X="120" Data_Size="200" objectName="Oscope-2" labelx="-80" valLabelx="0" vTick2="1" labelrot="0" Expand_Y="200" circPos="0,0" hflip="1" valLabely="0" Expand_X="240" boardRot="-1000000" itemtype="Oscope" Autoad1="true" Basic_Y="100" rotation="0" Probe1="pin1" labely="-130" y="-304" Filter="0.10000000000000001" Probe2="led" hTick2="1" mainComp="false" id="Oscope-2" circRot="1.88923194106121e-183" vTick1="1" vPos2="0" vflip="1" Trigger2="true" Autoad2="true"/>
@@ -18,6 +30,18 @@ Circuit Id: Connector-35
 
 Unique  Id: Connector-36: 
 Circuit Id: Connector-36
-<item Show_id="false" circRot="0" valLabely="0" endpinid="Oscope-2-Pin1" mainComp="false" id="Connector-36" rotation="0" startpinid="Arduino Uno-1-PB5" labely="-24" x="-396" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-120" pointList="-396,-120,-396,-184,-464,-184,-464,-288,-448,-288" objectName="Connector-36" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Connector" enodeid="enode-36" labelx="-16" labelrot="0" valLabRot="0"/>
+<item Show_id="false" circRot="0" valLabely="0" endpinid="Node-44-0" mainComp="false" id="Connector-36" rotation="0" startpinid="Arduino Uno-1-PB5" labely="-24" x="-396" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-120" pointList="-396,-120,-396,-184,-464,-184" objectName="Connector-36" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Connector" enodeid="enode-43" labelx="-16" labelrot="0" valLabRot="0"/>
+
+Unique  Id: Connector-42: 
+Circuit Id: Connector-42
+<item Show_id="false" circRot="0" valLabely="0" endpinid="Arduino Uno-1-GND2" mainComp="false" id="Connector-42" rotation="0" startpinid="Voltimeter-41-rPin" labely="-24" x="-536" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-264" pointList="-536,-264,-536,68,-356,68,-356,24" objectName="Connector-42" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Connector" enodeid="enode-42" labelx="-16" labelrot="0" valLabRot="0"/>
+
+Unique  Id: Connector-43: 
+Circuit Id: Connector-43
+<item Show_id="false" circRot="0" valLabely="0" endpinid="Node-44-1" mainComp="false" id="Connector-43" rotation="0" startpinid="Voltimeter-41-lPin" labely="-24" x="-552" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-264" pointList="-552,-264,-552,-184,-464,-184" objectName="Connector-43" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Connector" enodeid="enode-43" labelx="-16" labelrot="0" valLabRot="0"/>
+
+Unique  Id: Connector-45: 
+Circuit Id: Connector-45
+<item Show_id="false" circRot="0" valLabely="0" endpinid="Oscope-2-Pin1" mainComp="false" id="Connector-45" rotation="0" startpinid="Node-44-2" labely="-24" x="-464" boardRot="-1000000" hflip="1" vflip="1" valLabelx="0" y="-184" pointList="-464,-184,-464,-288,-448,-288" objectName="Connector-45" circPos="0,0" boardPos="-1e+06,-1e+06" itemtype="Connector" enodeid="enode-43" labelx="-16" labelrot="0" valLabRot="0"/>
  
 </circuit>
