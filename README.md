@@ -24,9 +24,10 @@ Prof. Eduardo Ono
 | 08 | 28/04 | Botões (push buttons); Resistores Pull-Up e Pull-Down
 | 09 | 05/05 | Timers e Interrupções
 | 10 | 12/05 | Multitasking; Programação Concorrente com FreeRTOS
-| 11 | 19/05 | Protocolos de Comunicação
-| 12 | 26/05 | Raspberry Pi
-| -- | 02/06 | 2a. Avaliação
+| 11 | 19/05 | Simulador SimulIDE
+| 12 | 26/05 | Protocolos de Comunicação
+| 13 | 02/06 | Raspberry Pi
+| -- | 09/06 | 2a. Avaliação (a ser confirmado)
 
 <br>
 
@@ -34,6 +35,7 @@ Prof. Eduardo Ono
 
 * https://www.arduino.cc
 * https://www.tinkercad.com
+* Placa Arduino Uno (opcional)
 
 <br>
 
@@ -67,6 +69,7 @@ Prof. Eduardo Ono
 | [![Thumb](https://img.youtube.com/vi/81q9kBRQt1E/default.jpg)](https://www.youtube.com/watch?v=81q9kBRQt1E) | [Pianistos] [**[HQ] Someone like you - Adele (Piano cover)**](https://www.youtube.com/watch?v=81q9kBRQt1E) (YouTube, 5:02, Dez/2015)
 | [![Thumb](https://img.youtube.com/vi/Vn39txtVIHc/default.jpg)](https://www.youtube.com/watch?v=Vn39txtVIHc) | [Pianistos] [**3D Spectrum Analyser (1280 LEDs) - MAKING OF**](https://www.youtube.com/watch?v=Vn39txtVIHc) (YouTube, 22:56, Jan/2015)
 | [![Thumb](https://img.youtube.com/vi/COPaqJBekBQ/default.jpg)](https://www.youtube.com/watch?v=COPaqJBekBQ) | [ElectroSmash] [**pedalSHIELD DUE Arduino Guitar Pedal**](https://www.youtube.com/watch?v=COPaqJBekBQ) (YouTube, 2:20, Dez/2013)
+| [![Thumb](https://img.youtube.com/vi/m-LP4qpOLl0/default.jpg)](https://www.youtube.com/watch?v=m-LP4qpOLl0) | [PRO ROBOTS] [__The newest robots 2021 \| Incredible and technologically advanced robots__](https://www.youtube.com/watch?v=m-LP4qpOLl0) (YouTube, 10:08, Mai/2021)
 
 <br>
 
