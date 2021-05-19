@@ -33,7 +33,7 @@ Prof. Eduardo Ono
 
 ## Recursos
 
-* https://www.arduino.cc
+* [Arduino IDE](https://www.arduino.cc)
 * https://www.tinkercad.com
 * [SimulIDE](https://www.simulide.com)
 * Placa Arduino Uno (opcional)
