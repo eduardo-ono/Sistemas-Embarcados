@@ -17,7 +17,7 @@ Prof. Eduardo Ono
   * Baixar o Arduino IDE no site https://www.arduino.cc/en/software
     * OBS.: A versão estável (1.8.x) provavelmente será descontinuada em breve. Porém, a versão beta (2.0.x) consome ~800 MB de RAM, contra ~200 MB na versão estável.
   * Instalar o Arduino IDE
-  * Na janela Preferences do Arduino IDE (Menu `File` -> `Preferences...`), especificar um diretório onde os projetos do Arduino serão armazenados (salvos).
+  * Na janela Preferences do Arduino IDE (menu `File` -> `Preferences...`), especificar um diretório onde os projetos do Arduino serão armazenados (salvos).
 
     <img src="./figuras/arduino-ide-preferences.png" alt="img" width="480px">
 
