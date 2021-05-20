@@ -6,6 +6,8 @@ Prof. Eduardo Ono
 
 ## Descrição
 
+<img src="https://pplware.sapo.pt/wp-content/uploads/2021/05/israel_iron_dome01.jpg" alt="" width="480px">
+
 <br>
 
 ## Conteúdo Programático (40h)
