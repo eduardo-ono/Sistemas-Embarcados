@@ -25,7 +25,7 @@ Prof. Eduardo Ono
 | -- | 14/04 | 1a. Avaliação
 | -- | 21/04 | (Feriado)
 | 08 | 28/04 | Botões (push buttons); Resistores Pull-Up e Pull-Down
-| 09 | 05/05 | Timers e Interrupções
+| 09 | 05/05 | Temporizadores (_Timers_) e Interrupções
 | 10 | 12/05 | Multitasking; Programação Concorrente com FreeRTOS
 | 11 | 19/05 | Simulador SimulIDE
 | 12 | 26/05 | Protocolos de Comunicação
