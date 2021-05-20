@@ -6,8 +6,8 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-<img src="https://pplware.sapo.pt/wp-content/uploads/2021/05/israel_iron_dome01.jpg" alt="" width="480px">
-
+<img src="https://pplware.sapo.pt/wp-content/uploads/2021/05/israel_iron_dome01.jpg" alt="" width="480px"><br>
+<small>Fonte: https://pplware.sapo.pt/high-tech/iron-dome-de-israel-bloqueia-80-dos-foguetes/</small>
 <br>
 
 ## Conteúdo Programático (40h)
