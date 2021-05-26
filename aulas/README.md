@@ -198,7 +198,7 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 <details>
   <summary>Aula 11
 
-  ### Protocolos de Comunicação
+  ### Simulador SimulIDE
   </summary>
   <section markdown="1">
 
@@ -210,9 +210,19 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 <details>
   <summary>Aula 12
 
-  ### ESP32
+  ### Protocolos de Comunicação
   </summary>
   <section markdown="1">
+
+  * #### I2C
+
+    * [Simulação no SimulIDE](../conteudo/arduino/sketches/protocolo_i2c/)
+
+    * Vídeos de Apoio
+
+      ||
+      | --- |
+      | [![](https://img.youtube.com/vi/jWE0R7fG4k4/default.jpg)](https://www.youtube.com/watch?v=jWE0R7fG4k4 "[Arduino Brasil] MÓDULO I2C - Facilitando a sua vida com o Display LCD (ARDUINO BRASIL) \|\| 13:52, YouTube, Maio/2016.")
 
   </section>
 </details>
