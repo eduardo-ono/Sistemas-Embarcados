@@ -22,15 +22,16 @@ Prof. Eduardo Ono
 | 05 | 24/03 | Pulse Width Modulation (PWM)
 | 06 | 31/03 | Sensores e Atuadores - Conceitos e Aplicações
 | 07 | 07/04 | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
-| -- | 14/04 | 1a. Avaliação
+| -- | 14/04 | __1a. Avaliação__
 | -- | 21/04 | (Feriado)
-| 08 | 28/04 | Botões (push buttons); Resistores Pull-Up e Pull-Down
-| 09 | 05/05 | Temporizadores (_Timers_) e Interrupções
+| 08 | 28/04 | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
+| 09 | 05/05 | Interrupções e Temporizadores (_Timers_)
 | 10 | 12/05 | Multitasking; Programação Concorrente com FreeRTOS
 | 11 | 19/05 | Simulador SimulIDE
 | 12 | 26/05 | Protocolos de Comunicação
 | 13 | 02/06 | Raspberry Pi
-| -- | 09/06 | 2a. Avaliação (a ser confirmado)
+| -- | 09/06 | __2a. Avaliação__
+| 14 | 16/06 | "Devolutiva" da 2a. Avaliação
 
 <br>
 
@@ -39,6 +40,7 @@ Prof. Eduardo Ono
 * [Arduino IDE](https://www.arduino.cc)
 * https://www.tinkercad.com
 * [SimulIDE](https://www.simulide.com)
+* Tinkercad
 * Placa Arduino Uno (opcional)
 
 <br>
