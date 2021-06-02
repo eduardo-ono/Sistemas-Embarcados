@@ -44,6 +44,6 @@ Prof. Eduardo Ono
 
 ## Sistemas Operacioanis Suportados
 
-* Paspberry Pi OS (previamente denominado Raspbian), baseado em kernel Linux e na distribuição Debian. Utiliza o shell 
+* Paspberry Pi OS (previamente denominado Raspbian), baseado em kernel Linux e na distribuição Debian. Utiliza o shell XFCE personalizado.
 
 <br>

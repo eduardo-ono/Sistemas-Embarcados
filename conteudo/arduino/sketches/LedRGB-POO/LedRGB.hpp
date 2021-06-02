@@ -8,13 +8,13 @@ private:
   byte rPin;
   byte gPin;
   byte bPin;
-  int r = 0;
+  int r = 0; // valor entre 0 e 255 (PWM 8-bit)
   int g = 0;
   int b = 0;
 
 public:
   // Construtor
-  LedRGB(int, int, int);
+  LedRGB(byte, byte, byte);
 
   // Destrutor
   ~LedRGB();

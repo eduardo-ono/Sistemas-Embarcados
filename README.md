@@ -31,7 +31,9 @@ Prof. Eduardo Ono
 | 12 | 26/05 | Protocolos de Comunicação
 | 13 | 02/06 | Raspberry Pi
 | -- | 09/06 | __2a. Avaliação__
-| 14 | 16/06 | "Devolutiva" da 2a. Avaliação
+| 14 | 16/06 | "Devolutiva" da 2a. Avaliação e __Atividade Recuperativa__
+| -- | 23/06 | Avaliação de 2a. Chamada
+| -- | 
 
 <br>
 

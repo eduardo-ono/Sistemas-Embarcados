@@ -1,7 +1,7 @@
 #include "LedRGB.hpp"
 
 // Construtor
-LedRGB::LedRGB(int rPin, int gPin, int bPin)
+LedRGB::LedRGB(byte rPin, byte gPin, byte bPin)
 {
   this->rPin = rPin;
   this->gPin = gPin;
