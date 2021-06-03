@@ -47,3 +47,11 @@ Prof. Eduardo Ono
 * Paspberry Pi OS (previamente denominado Raspbian), baseado em kernel Linux e na distribuição Debian. Utiliza o shell XFCE personalizado.
 
 <br>
+
+## Bibliografia
+
+|| Título |
+| :-: | --- |
+| <img src="/referencias/capas/GAY-2e_2018.jpg" width="150px"> | [GAY_2018] <br> GAY, Warren; [__Advanced Raspberry Pi - Raspbian Linux and GPIO Integration, 2. ed.__](/referencias/README.md#GAY-2e_2018), Apress, 2018.
+
+<br>
