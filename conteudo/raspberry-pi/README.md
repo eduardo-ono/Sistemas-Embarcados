@@ -22,9 +22,8 @@ Prof. Eduardo Ono
 
   * https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-4-Product-Brief.pdf
 
-|||||
+| | Raspberry Pi 3 B | [Raspberry Pi 3 B+](https://static.raspberrypi.org/files/product-briefs/200206+Raspberry+Pi+3+Model+B+plus+Product+Brief+PRINT&DIGITAL.pdf) | [Raspberry Pi 4 B](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-4-Product-Brief.pdf) |
 | --- | --- | --- | --- |
-|               | Raspberry Pi 3 | [Raspberry Pi 3 B+](https://static.raspberrypi.org/files/product-briefs/200206+Raspberry+Pi+3+Model+B+plus+Product+Brief+PRINT&DIGITAL.pdf) | [Raspberry Pi 4](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-4-Product-Brief.pdf) |
 | SoC           | Broadcom BCM2837, Quad Core ARM Cortex-A53 (ARMv8) 64-bit @ 1.2GHz | Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit @ 1.4GHz | Broadcom BCM2711, Quad core Cortex-A72 (ARMv8) 64-bit @ 1.5GHz | 
 | Mem. RAM      | 1GB LPDDR2 SDRAM | 1GB LPDDR2 SDRAM | 2GB, 4GB or 8GB LPDDR4-3200 SDRAM |
 | Conectividade | BCM43438 wireless LAN <br>Bluetooth Low Energy (BLE) | 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN, Bluetooth 4.2, BLE | 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE |

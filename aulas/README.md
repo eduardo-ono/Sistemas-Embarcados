@@ -339,6 +339,10 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary>
     <strong>Botões do tipo "push button"</strong>
   </summary>
+
+  <a href="https://www.tinkercad.com/embed/i3zEigdlSEf?editbtn=1" target="_blank">
+  <img src="https://csg.tinkercad.com/things/i3zEigdlSEf/t725.png?rev=1623219920291000000&s=&v=1&type=circuits" width="300px"></a>
+
 </details>
 
 ---
