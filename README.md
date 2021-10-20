@@ -16,33 +16,44 @@ Prof. Eduardo Ono
 | Aula | Data  | Conteúdo |
 | :-: |  :-:  | ---
 | [01] | 18/10 | Overview - Conceitos e Aplicações de Sistemas Embarcados; Fundamentos de Eletrecidade e Eletrônica Básica
-| 02 | 25/10 | Microcontroladores; Introdução ao Arduino - Placas, IDE e API; Ambiente de Desenvolvimento
-| 03 | 08/11 | Programação em Arduino - Análise de desempenho de E/S
-| 04 | 22/11 | Conversor Analógico-Digital (ADC) e Conversor Digital-Analógico (DAC)
-| 05 | 29/11 | Pulse Width Modulation (PWM)
-| 06 | 06/12 | Sensores e Atuadores - Conceitos e Aplicações
-| 07 |       | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
+| [02] | 25/10 | Microcontroladores; Introdução ao Arduino - Placas, IDE e API; Ambiente de Desenvolvimento
+| [03] | 08/11 | Programação em Arduino - Análise de desempenho de E/S
+| [04] | 22/11 | Conversor Analógico-Digital (ADC) e Conversor Digital-Analógico (DAC)
+| [05] | 29/11 | Pulse Width Modulation (PWM)
+| [06] | 06/12 | Sensores e Atuadores - Conceitos e Aplicações
+| [07] |       | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
 | -- |       | __Avaliação__
-| 08 |       | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
-| 09 |       | Interrupções e Temporizadores (_Timers_)
-| 10 |       | Multitarefa; Programação Concorrente com FreeRTOS
-| 11 |       | Simulador SimulIDE
-| 12 |       | Protocolos de Comunicação
-| 13 |       | Raspberry Pi
-| 14 |       | "Devolutiva" da 2a. Avaliação
+| [08] |       | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
+| [09] |       | Interrupções e Temporizadores (_Timers_)
+| [10] |       | Multitarefa; Programação Concorrente com FreeRTOS
+| 11 |       | Protocolos de Comunicação
+| 12 |       | Raspberry Pi
+| 13 |       | "Devolutiva" da 2a. Avaliação
 | -- |       | Avaliação de 2a. Chamada
 
 [01]: ./aulas/README.md#aula-01
+[02]: ./aulas/README.md#aula-02
+[03]: ./aulas/README.md#aula-03
+[04]: ./aulas/README.md#aula-04
+[05]: ./aulas/README.md#aula-05
+[06]: ./aulas/README.md#aula-06
+[07]: ./aulas/README.md#aula-07
+[08]: ./aulas/README.md#aula-08
+[09]: ./aulas/README.md#aula-09
+[10]: ./aulas/README.md#aula-10
+[11]: ./aulas/README.md#aula-11
+[12]: ./aulas/README.md#aula-12
+[13]: ./aulas/README.md#aula-13
 
 <br>
 
 ## Recursos
 
 * [Arduino IDE](https://www.arduino.cc)
-* https://www.tinkercad.com
 * [SimulIDE](https://www.simulide.com)
-* Tinkercad
+* [TinkerCAD](https://www.tinkercad.com)
 * Placa Arduino Uno (opcional)
+* Placa Raspberry Pi 3B, 3B+ ou 4
 
 <br>
 
