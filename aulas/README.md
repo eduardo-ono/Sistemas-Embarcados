@@ -28,6 +28,7 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Aplicações de Sistemas Embarcados
 
   * [__Eletricidade Básica__](../conteudo/02-fundamentos/eletricidade-basica)
+    * Ref.: [[GUSSOW-2e_2009]] Cap. 1.
 
   * [__Eletrônica Básica__](../conteudo/02-fundamentos/eletronica-basica)
 
@@ -366,3 +367,5 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 ---
 
 <br>
+
+[GUSSOW-2e_2009]: ../conteudo/02-fundamentos/eletricidade-basica/README.md#GUSSOW-2e_2009

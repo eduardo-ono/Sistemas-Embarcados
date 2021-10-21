@@ -12,6 +12,10 @@ Prof. Eduardo Ono
 
 * ### [Eletrônica Básica](./eletronica-basica)
 
+* ### [Circuitos Elétricos](./circuitos-eletricos)
+
+* ### [Instrumentos de Medição](./instrumentos-de-medicao)
+
 <br>
 
 ## Vídeos Recomendados
@@ -20,3 +24,5 @@ Prof. Eduardo Ono
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/vYIVtOB-4xQ/default.jpg)](https://www.youtube.com/watch?v=vYIVtOB-4xQ "A Maior Invenção da Humanidade") | <sup>[Ciência Todo Dia]</sup> [__A Maior Invenção da Humanidade__](https://www.youtube.com/watch?v=vYIVtOB-4xQ) <br> <sub>(9:51, YouTube, Mar/2019)</sub>
 |
+
+<br>
