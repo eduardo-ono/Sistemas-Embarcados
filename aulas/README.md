@@ -16,7 +16,9 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   <summary id="aula-01">
     <strong>Aula 01: Conceitos e Aplicações de Sistemas Embarcados</strong>
   </summary>
-  <section markdown="1">
+  <section>
+
+---
 
 * Material de Apoio
   * <a href="../[ONO] Sistemas Embarcados e IoT.pdf">Apresentação</a>
