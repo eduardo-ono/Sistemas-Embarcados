@@ -1,14 +1,14 @@
-> ### Sistemas Embarcados
+> <h5>Sistemas Embarcados</h5>
 
 # Aulas
 
 Prof. Eduardo Ono
 
-Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
+Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <br>
 
-## Conteúdo
+## Sequência das Aulas
 
 <br>
 
@@ -18,15 +18,20 @@ Versão HTML: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   </summary>
   <section markdown="1">
 
-* [__Conceitos__](../conteudo/00-overview)
-  * Sistemas, Sistemas Computacionais e Sistemas Emabarcados
-  * Aplicações de Sistemas Embarcados
+* Material de Apoio
+  * <a href="../[ONO] Sistemas Embarcados e IoT.pdf">Apresentação</a>
 
-* [__Eletricidade Básica__](../conteudo/02-fundamentos)
+* Conteúdo
 
-* [__Eletrônica Básica__](../conteudo/02-fundamentos)
+  * [__Conceitos__](../conteudo/00-overview)
+    * Sistemas, Sistemas Computacionais e Sistemas Emabarcados
+    * Aplicações de Sistemas Embarcados
 
-* Sistemas Digitais (Revisão)
+  * [__Eletricidade Básica__](../conteudo/02-fundamentos/eletricidade-basica)
+
+  * [__Eletrônica Básica__](../conteudo/02-fundamentos/eletronica-basica)
+
+  * Sistemas Digitais (Revisão)
 
   </section>
 </details>
