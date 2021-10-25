@@ -1,10 +1,10 @@
+const short port = B00000001;
+
 void setup() {
-  // put your setup code here, to run once:
-  DDRD = 0x00000100;
+  DDRB = port;
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  PORTD |= 0x00000100;
-  PORTD &= ~0x00000100;
+    PORTB |= port;
+    PORTB &= ~port;
 }
