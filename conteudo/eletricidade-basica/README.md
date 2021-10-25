@@ -1,4 +1,5 @@
-> Sistemas Embarcados > Conteúdo > Fundamentos
+| <sup>Sistemas Embarcados > Conteúdo</sup> |
+| --- |
 
 # Eletricidade Básica
 
@@ -10,7 +11,7 @@ Prof. Eduardo Ono
 
 > Carga Elétrica
 
-> Tensão Elétrica (Diferença de Potencial Elétrico - DDP)
+> Tensão Elétrica (Diferença de Potencial - DDP)
 
 > Corrente Elétrica
 
@@ -18,7 +19,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Vídeos Recomendados
+## Vídeos de Apoio
 
 | Thumb | Descrição |
 | :-: | --- |
@@ -30,6 +31,13 @@ Prof. Eduardo Ono
 
 | Capa | Descrição |
 | :-: | --- |
-| <img src="../../../referencias/capas/GUSSOW-2e_2009.jpg" alt="img" width="100px"> | <sup>[<a id="GUSSOW-2e_2009">GUSSOW-2e_2009</a>]</sup> GUSSOW, Milton; __Eletricidade Básica, 2. ed.__, Porto Alegre: Bookman, 2009.
+| <img src="./referencias/capas/GUSSOW-2e_2009.jpg" alt="img" width="100px"> | <sup>[<a id="GUSSOW-2e_2009">GUSSOW-2e_2009</a>]</sup> GUSSOW, Milton; __Eletricidade Básica, 2. ed.__, Porto Alegre: Bookman, 2009.
+
+<br>
+
+## Bibliografia Complementar
+
+| Capa | Descrição |
+| :-: | --- |
 
 <br>

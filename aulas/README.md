@@ -30,9 +30,11 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
     * Aplicações de Sistemas Embarcados
 
   * [__Eletricidade Básica__](../conteudo/02-fundamentos/eletricidade-basica)
-    * Ref.: [[GUSSOW-2e_2009]] Cap. 1.
+    * Conceitos de tensão, corrente e potência
+      * Ref.: [[GUSSOW-2e_2009]] Cap. 1.
 
   * [__Eletrônica Básica__](../conteudo/02-fundamentos/eletronica-basica)
+    * Transistores
 
   * Sistemas Digitais (Revisão)
 

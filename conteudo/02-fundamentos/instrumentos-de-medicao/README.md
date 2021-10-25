@@ -1,4 +1,5 @@
-### Sistemas Embarcados > Conteúdo
+| <sup>[Sistemas Embarcados](../../../) > [Conteúdo](../../)</sup> |
+| --- |
 
 # Instrumentos de Medição
 
@@ -8,13 +9,17 @@ Prof. Eduardo Ono
 
 ## Multímetro
 
+|Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/1WIWrmc-rBk/default.jpg)](https://www.youtube.com/watch?v=1WIWrmc-rBk) | <sup>[Manual do Mundo]</sup> [__Como funciona um multímetro #ManualMaker Aula 2, Vídeo 2__](https://www.youtube.com/watch?v=1WIWrmc-rBk) <br> <sub>(14:16, YouTube, Mar/2019)</sub>
+
 ### Frequencímetro
 
-  * Nem todos os multímetros possuem a função de frequencímetro. Mas, para o estudo de Sistemas Emabarcados, essa função possibilita a medição do ciclo de trabalho (_Duty Cycle_) na técnica de PWM.
+* Nem todos os multímetros possuem a função de frequencímetro. Mas, para o estudo de Sistemas Emabarcados, essa função possibilita a medição do ciclo de trabalho (_Duty Cycle_) na técnica de PWM.
 
-  * Modelos de multímetro de baixo custo com frequencímetro
-    * Minipa 1649 (até 10 Mhz)
-    * Hikari 3090 (até 30 MHz)
+* Modelos de multímetro de baixo custo com frequencímetro
+  * Minipa 1649 (até 10 Mhz)
+  * Hikari 3090 (até 30 MHz)
 
 <br>
 
@@ -28,6 +33,6 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-  * [PLATT-2e_2015]
+* [PLATT-2e_2015]
 
 <br>

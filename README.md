@@ -11,7 +11,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Conteúdo Programático (40h)
+## Conteúdo Programático (80h)
 
 | Aula | Data  | Conteúdo |
 | :-: |  :-:  | ---
@@ -50,8 +50,8 @@ Prof. Eduardo Ono
 ## Recursos
 
 * [Arduino IDE](https://www.arduino.cc)
-* [SimulIDE](https://www.simulide.com)
 * [TinkerCAD](https://www.tinkercad.com)
+* [SimulIDE](https://www.simulide.com)
 * Placa Arduino Uno (opcional)
 * Placa Raspberry Pi 3B, 3B+ ou 4
 
@@ -61,10 +61,10 @@ Prof. Eduardo Ono
 
 | Capa | Descrição |
 | :-:  | --- |
-| <img src="./referencias/capas/platt-2e_2015.jpg" width="100px"> | <sup>[PLATT-2e_2015]</sup><br>PLATT, Charles; **Make - Electronics, 2. ed.**, Make Community, LLC, 2015[.](https://app.box.com/s/r2p1z56spe3bybzy593mh8zladezyslz)
-| <img src="./referencias/capas/monk-2e_2019.jpg" width="100px"> | <sup>[MONK-2e_2019]</sup><br>MONK, Simon; **Programming Arduino Next Steps: Going Further with Sketches, 2. ed.**, McGraw-Hill Education, 2019[.](https://app.box.com/s/onxakui60rfqif5jh7800uod4q9xtebm)
-| <img src="./referencias/capas/russell_2010.jpg" width="100px"> | <sup>[RUSSELL_2010]</sup><br>RUSSELL, David; **Introduction to Embedded Systems - Using ANSI C and the Arduino Development Environment**, Morgan & Claypool, 2010[.](https://app.box.com/s/dglipxr1taeq5ofsowbnwik0owo0s47x)
-| <img src="./referencias/capas/mcroberts_2011.jpg" width="100px"> | <sup>[McROBERTS_2011]</sup><br>McROBERTS, Michael; **Arduino Básico**, São Paulo: Novatec Editora, 2011[.](https://app.box.com/s/gr402oiw0ivv55lvdclk7wnsj1pga7rx)
+| <img src="./referencias/capas/monk-2e_2019.jpg" width="100px"> | <sup>[MONK-2e_2019]</sup><br>MONK, Simon; __Programming Arduino Next Steps: Going Further with Sketches, 2. ed.__, McGraw-Hill Education, 2019[.](https://app.box.com/s/onxakui60rfqif5jh7800uod4q9xtebm)
+| <img src="./referencias/capas/russell_2010.jpg" width="100px"> | <sup>[RUSSELL_2010]</sup><br>RUSSELL, David; __Introduction to Embedded Systems - Using ANSI C and the Arduino Development Environment__, Morgan & Claypool, 2010[.](https://app.box.com/s/dglipxr1taeq5ofsowbnwik0owo0s47x)
+| <img src="./referencias/capas/mcroberts_2011.jpg" width="100px"> | <sup>[McROBERTS_2011]</sup><br>McROBERTS, Michael; __Arduino Básico__, São Paulo: Novatec Editora, 2011[.](https://app.box.com/s/gr402oiw0ivv55lvdclk7wnsj1pga7rx)
+| <img src="./referencias/capas/GUSSOW-2e_2009.jpg" width="100px"> | <sup>[GUSSOW-2e_2009]</sup><br>GUSSOW, Milton; __Eletricidade Básica, 2. ed.__, Porto Alegre: Bookman, 2009[.](https://app.box.com/s/c7dhfb3t0sopygntto0tlbvbwz92u9tj)
 
 <br>
 
@@ -72,6 +72,7 @@ Prof. Eduardo Ono
 
 | Capa | Descrição |
 | :-:  | --- |
+| <img src="./referencias/capas/platt-2e_2015.jpg" width="100px"> | <sup>[PLATT-2e_2015]</sup><br>PLATT, Charles; __Make - Electronics, 2. ed.__, Make Community, LLC, 2015[.](https://app.box.com/s/r2p1z56spe3bybzy593mh8zladezyslz)
 | <img src="./referencias/capas/tocci-11e_2011.jpg" width="100px"> | <sup>[TOCCI-11e_2011]</sup><br>TOCCI, Ronald J.; WIDNER, Neal S.; MOSS, Gregory L.; __Sistemas Digitais - Princípios e Aplicações, 11. ed.__, Pearson Universidades, 2011[.](https://app.box.com/s/98g9e4939fd27vxqpvcyrbcg0iykhnwu)
 | <img src="./referencias/capas/idoeta-40e_2008.jpg" width="100px"> | <sup>[IDOETA-40e_2008]</sup><br>IDOETA, Ivan, V.; CAPUANO, Francisco G.; __Elementos de Eletrônica Digital, 40. ed.__, São Paulo: Editora Érica Ltda., 2008[.](https://app.box.com/s/a5jgfgbhj1s77tc0qwup)
 | <img src="./referencias/capas/monk-2e_2017.jpg" width="100px"> | <sup>[MONK-2e_2017]</sup><br>MONK, Simon; __Hacking Electronics - Learning Electronics with Arduino and Raspberry Pi, 2. ed.__,  McGraw-Hill Education, 2017.
@@ -95,6 +96,6 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![Thumb](https://img.youtube.com/vi/2ctMc4DFpik/default.jpg)](https://www.youtube.com/watch?v=2ctMc4DFpik) | [__EVA (2011/2015)__](https://www.youtube.com/watch?v=2ctMc4DFpik) <br> <sub>(YouTube, 2:16, Fev/2015)</sub>
+| [![Thumb](https://img.youtube.com/vi/GaBX2sY6V2E/default.jpg)](https://www.youtube.com/watch?v=GaBX2sY6V2E) | [__EVA (2011)__](https://www.youtube.com/watch?v=GaBX2sY6V2E) <br> <sub>(Trailer, YouTube, Fev/2015)</sub>
 
 <br>
