@@ -45,12 +45,15 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
 
 <details>
   <summary id="aula-02">
-    <strong>Aula 02: Programação em Arduino</strong>
+    <strong>Aula 02: Introdução à Programação em Arduino</strong>
   </summary>
   <section markdown="1">
 
-* Saídas digitais
-  * Exemplos: Programação em Arduino UNO: Saídas digitais e medidas de corrente e tensão
+* Arduino: Família de Placas
+* Arduino IDE
+* Arduino API
+* Ambiente de Desenvolvimento Virtual
+* Primeiro programa em Arduino: Pisca LED ("Hello World")
 
   </section>
 </details>
@@ -63,6 +66,8 @@ Versão Web: https://eduardo-ono.github.io/Sistemas-Embarcados/aulas/
   </summary>
   <section markdown="1">
 
+* Saídas digitais
+  * Exemplos: Programação em Arduino UNO: Saídas digitais e medidas de corrente e tensão
 * Programação em Arduino (Tinkercad)
 * Análise de Desempenho
   * Exemplos: Programação em Arduino - Análise de Desempenho
