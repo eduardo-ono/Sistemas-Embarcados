@@ -32,6 +32,10 @@ Prof. Eduardo Ono
 
 * Selecionar a porta do computador onde a placa foi concetada (por exemplo COM3) através no menu _Drop-Down_ na interface principal (na versão 2.0.x) ou através do menu `Tools` -> `Port` (na versão 1.8.x).
 
+* Driver para chip CH340
+
+  * https://www.arduined.eu/ch340-windows-10-driver-download/
+
   </section>
 </details>
 
