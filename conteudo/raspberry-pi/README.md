@@ -8,11 +8,11 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-> O __*Raspberry Pi*__ (RPi) é um SBC (_Single Board Computer_) desenvolvido no Reino Unido pela Fundação Raspberry Pi que se conecta a um monitor de computador ou TV e usa um teclado e um mouse padrão. Todo o hardware é integrado numa única placa.
+> O ___Raspberry Pi___ (RPi) é um SBC (_Single Board Computer_) desenvolvido no Reino Unido pela Fundação Raspberry Pi que se conecta a um monitor de computador ou TV e usa um teclado e um mouse padrão. Todo o hardware é integrado numa única placa.
 
 ![img](./img/raspberry-pi-4.webp)
 
-<small>Fonte: https://www.raspberrypi.org/products/raspberry-pi-4-model-b/</small>
+<sub>Fonte: https://www.raspberrypi.org/products/raspberry-pi-4-model-b/</sub>
 
 <br>
 
@@ -34,7 +34,7 @@ Prof. Eduardo Ono
 | Video in      | CSI camera port for connecting a Raspberry Pi camera <br> DSI display port for connecting a Raspberry Pi touchscreen display | CSI camera port for connecting a Raspberry Pi camera <br> DSI display port for connecting a Raspberry Pi touchscreen display | 2-lane MIPI CSI camera port
 | Audio         | 4 Pole stereo output and composite video port | 4-pole stereo output and composite video port | 4-pole stereo audio and composite video port
 | Multimedia    ||| H.265 (4kp60 decode), H.264 (1080p60 decode, 1080p30 encode), <br> OpenGL ES 3.1, Vulkan 1.0
-| Armazenamento | Micro SD port (para S.O e dados) | Micro SD port (para S.O e dados)| Micro-SD card slot (para S.O. e dados)
+| Armazenamento | Micro SD port (para S.O. e dados) | Micro SD port (para S.O. e dados)| Micro-SD card slot (para S.O. e dados)
 | Alimentação   | 5V / 2.1A DC (micro USB) | 5V/2.5A DC (micro USB) | 5V / 3.0A DC via USB-C connector, 5V / 3.0A DC via GPIO header
 | Temp. oper.   ||| 0 – 50 ºC ambiente
 | Tensão lógica operação | 3,3 V |
@@ -49,8 +49,8 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-|| Título |
+| Capa | Título |
 | :-: | --- |
-| <img src="/referencias/capas/GAY-2e_2018.jpg" width="100px"> | [GAY_2018] <br> GAY, Warren; [__Advanced Raspberry Pi - Raspbian Linux and GPIO Integration, 2. ed.__](/referencias/README.md#GAY-2e_2018), Apress, 2018.
+| <img src="../../referencias/capas/GAY-2e_2018.jpg" width="100px"> | <sup>[GAY-2e_2018]</sup><br>GAY, Warren; __Advanced Raspberry Pi - Raspbian Linux and GPIO Integration, 2. ed.__, Apress, 2018.
 
 <br>

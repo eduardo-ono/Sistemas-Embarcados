@@ -1,12 +1,16 @@
-### Sistemas Embarcados
+> <h5>Sistemas Embarcados > Conteúdo</h5>
 
-# Sensores
+<h1 align="center">Sensores</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
 <br>
 
-## Fundamentos
+## Conceitos
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/2CZF90qGhmY/default.jpg)](https://www.youtube.com/watch?v=2CZF90qGhmY) | <sup>[Bóson Treinamentos]</sup><br>[__O que são Sensores - Introdução - Curso de Eletrônica e Sistemas Embarcados__](https://www.youtube.com/watch?v=2CZF90qGhmY)<br><sub>(16:51, YouTube, Fev/2018)</sub>
 
 - [Manual do Mundo] [Conheça os sensores do Arduino #ManualMaker Aula 6, Vídeo 1](https://www.youtube.com/watch?v=vEdYjAbzrAE) (YouTube, )
 
@@ -19,5 +23,3 @@ Prof. Eduardo Ono
 <br>
 
 ## Bibliografia
-
-*

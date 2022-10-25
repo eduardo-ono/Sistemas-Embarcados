@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Curso "Completos"
+## Cursos "Completos"
 
 * https://www.youtube.com/playlist?list=PLqBAJMdCNemmvUYzwij935_VYaiuaJkta
 

@@ -43,3 +43,7 @@ Prof. Eduardo Ono
 | Processadores ARM
 
 <br>
+
+* https://www.youtube.com/c/MAKE/videos
+
+<br>

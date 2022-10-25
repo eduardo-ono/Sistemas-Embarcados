@@ -1,8 +1,8 @@
-> # Sistemas Embarcados > Conteúdo > Arduino
+> <h5>Sistemas Embarcados > Conteúdo > Arduino</h5>
 
-# Overview (Arduino)
+<h1 align="center">Overview</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
 <br>
 
@@ -17,15 +17,16 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição|
 | :-: | --- |
-[![](https://img.youtube.com/vi/vb9Idud45Iw/default.jpg)](https://www.youtube.com/watch?v=vb9Idud45Iw) | [Brincando com Ideias] <br> [__Arduino é um sistema embarcado?__](https://www.youtube.com/watch?v=vb9Idud45Iw) \|\| 7:42, YouTube, Ago/2018.
+| [![img](https://img.youtube.com/vi/vb9Idud45Iw/default.jpg)](https://www.youtube.com/watch?v=vb9Idud45Iw) | <sup>[Brincando com Ideias]</sup><br>[__Arduino é um sistema embarcado?__](https://www.youtube.com/watch?v=vb9Idud45Iw)<br><sub>(7:42, YouTube, Ago/2018)</sub>
+| [![img](https://img.youtube.com/vi/FbYd9KPkkl4/default.jpg)](https://www.youtube.com/watch?v=FbYd9KPkkl4) | <sup>[Brincando com Ideias]</sup><br>[__Qual Arduino comprar?__](https://www.youtube.com/watch?v=FbYd9KPkkl4)<br><sub>(16:10, YouTube, Abr/2019)</sub>
 
 <br>
 
 ## Crash Courses
 
-| Thumb | Descrição|
+| Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/zJ-LqeX_fLU/default.jpg)](https://www.youtube.com/watch?v=zJ-LqeX_fLU) | <sup>[freeCodeCamp.org]</sup> [__Arduino Course for Beginners - Open-Source Electronics Platform__](https://www.youtube.com/watch?v=zJ-LqeX_fLU) <br> <sub>(4:04:21, YouTube, Jun/2021)</sub>
+| [![img](https://img.youtube.com/vi/zJ-LqeX_fLU/default.jpg)](https://www.youtube.com/watch?v=zJ-LqeX_fLU) | <sup>[freeCodeCamp.org]</sup><br>[__Arduino Course for Beginners - Open-Source Electronics Platform__](https://www.youtube.com/watch?v=zJ-LqeX_fLU)<br><sub>(4:04:21, YouTube, Jun/2021)</sub>
 
 <br>
 

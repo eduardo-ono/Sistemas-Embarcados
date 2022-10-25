@@ -1,4 +1,4 @@
-### Sistemas Embarcados
+> <sup><strong>Sistemas Embarcados > Conteúdo</strong></sup>
 
 # IoT (Internet das Coisas)
 
@@ -6,16 +6,24 @@ Prof. Eduardo Ono
 
 <br>
 
-## Fundamentos
+## Tópicos
 
-* [Simplificando TI] [Comparando IPv6 com IPv4 (IP Tradicional)](https://www.youtube.com/watch?v=f0gglwGSCgU) (YouTube, 34:46, Mai/2020)
+* ### [Overview](./00-overview)
 
-<br>
-
-## Vídeos Recomendados
+* ### [Fundamentos](./fundamentos)
 
 <br>
 
-## Bibliografia
+## Bibliografia Básica
 
-* 
+<br>
+
+## Bibliografia Complementar
+
+<br>
+
+| Capa | Descrição |
+| :-: | --- |
+| <img src="./referencias/capas/SACOMANO_2018.jpg" alt="img" width="100px">| <sup>[SACOMANO_2018]</sup> <br> SACOMANO, José Benedito et al.; __Indústria 4.0: Conceitos e Fundamentos__, São Paulo: Blucher, 2018. <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/164117</sub>
+
+<br>

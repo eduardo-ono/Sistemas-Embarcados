@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<html xml:lang="pt-br" lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="AM4 - A Internet de Resultados" />
+    <meta name="description" content="Principal plataforma digital de livros do seguimento" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="resource-type" content="document" />
+    <meta name="content-language" content="pt-br" />
+    <meta name="revisit" content="1 day" />
+    <meta property="og:site_name" content="Biblioteca Virtual Universitária" />
+    <meta property="og:title" content="Biblioteca Virtual Universitária" />
+    <meta property="og:description" content="Principal plataforma digital de livros do seguimento" />
+    <meta property="og:image" itemprop="image" content="~/Leitor/images/logo-step2.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image:secure_url" content="~/Leitor/images/logo-step2.png" />
+    <meta name="twitter:card" content="~/Leitor/images/logo-step2.png">
+    <meta property="og:url" content="https://www.bibliotecavirtual.com.br/" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/Leitor/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Leitor/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Leitor/images/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="~/Leitor/images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link href="/Leitor/styles/slick-theme.css" rel="stylesheet" />
+    <link href="/Leitor/styles/slick.css" rel="stylesheet" />
+    <link runat="server" href="/vendor/fontawesome-pro-5.12.1-web/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="/Leitor/styles/test.css" />
+    <link rel="stylesheet" href="/Leitor/styles/main.css" />
+    <!-- <link rel="stylesheet" href="~/Leitor/styles/ebook.css" /> -->
+    <!-- CSS ACESSIBILIDADE -->
+    <link rel="stylesheet" type="text/css" href="/styles/home.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/header.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/high-contrast-backgrounds.css" />
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css">
+    <script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.2.0/jszip.js"></script>
+    <title>Leitor - Biblioteca Virtual Universitária</title>
+    
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147626024-5"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+
+                gtag('config', 'UA-147626024-5');
+            </script>
+    
+</head>
+
+<body class="leitor">
+
+     <!-- Google Tag Manager -->
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+
+    })(window, document, 'script', 'dataLayer', 'GTM-KTG9WHQ');</script>
+
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTG9WHQ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- <mini-profiler /> -->
+    
+
+<input type="hidden" value="https://staticbv.bvirtual.com.br/" id="urlCdn" />
+<input type="hidden" value="PDF" id="currentTipoFormato" />
+<input type="hidden" value="2369" id="currentInstituicaoId" />
+<input type="hidden" value="93fff7cc-6f1e-45cd-b642-02d2d1a0acfb" id="currentUsuarioId" />
+<input type="hidden" value="164117" id="currentIdType" />
+<input type="hidden" value="12067" id="currentFormatId" />
+<input type="hidden" value="pdf" id="currentFormat" />
+<input type="hidden" value="Gv&#x2B;o/neM&#x2B;1hhvMtVgzJw2tpqxusFFg3/5ypdmjXl21pnxeSzCCqIaRgC64UMafQfMhhaRJNFZpYOHlOyElwFlQ==" id="currentCode" />
+<input type="hidden" value="0" data-original="0" data-identificador="0" data-exibicao="1" id="InitialPage" />
+<input type="hidden" value="182" data-original="182" data-identificador="182" data-exibicao="183" id="FinalPage" />
+<input type="hidden" id="paginaAtual" value="0" />
+<input type="hidden" id="continueLendo" value="0" />
+<input type="hidden" id="hash" value="" />
+<input type="hidden" id="delta" value="1" />
+<input type="hidden" id="marcacaoTextoSelecionada" value="0" />
+<input type="hidden" id="marcacaoTextoSelecionada" value="0" />
+<input type="hidden" id="marcacaoTextoSelecionadaNota" value="0" />
+<input type="hidden" id="idCitacaoShare" value="0" />
+<input type="hidden" id="idCitacaoCreate" value="0" />
+<input type="hidden" id="MenuAberto" value="0" />
+<input type="hidden" id="IdCardEdit" value="0" />
+<input type="hidden" id="IdContaCompartilhada" value="False" />
+
+<style>
+    html {
+        height: 100%;
+        overflow-y: hidden;
+    }
+
+    body {
+        height: 100%;
+        overflow-y: hidden;
+    }
+
+    .book__content {
+        height: 100%;
+        overflow-y: auto;
+    }
+
+    @media print {
+        html, body {
+            display: none;
+        }
+    }
+
+    .loaderFeedback {
+        margin: auto;
+        border: 2px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 2px solid #3498db;
+        border-bottom: 2px solid #3498db;
+        width: 60px;
+        height: 60px;
+        -webkit-animation: spin 2s linear infinite; /* Safari */
+        animation: spin 2s linear infinite;
+    }
+
+    .textoFeedback {
+        text-align: center;
+        font-size: medium;
+    }
+</style>
+
+
+
+<div id="startBot" class="step">
+    <div class="step__info step-position step-off">
+        <p class="step__info-cont">9 de 10</p>
+        <p class="step__info-title">Navegação de Paginas</p>
+        <p class="step__info-desc">Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.</p>
+        <div class="step__info-btn">Próximo</div>
+        <p class="step__info-pular">Pular</p>
+    </div>
+</div>
+
+<div id="startReferencia" class="step">
+    <div class="step__info step-position step-position-referencia step-off">
+        <div class="btn-voltar-step"><i class="far fa-angle-left"></i>VOLTAR</div>
+        <p class="step__info-cont">10 de 12</p>
+        <p class="step__info-title">Referências Bibliográficas</p>
+        <p class="step__info-desc">Gere uma sugestão de referência bibliográfica do livro.</p>
+        <div class="step__info-btn">Próximo</div>
+        <p class="step__info-pular slide-menu-close">Pular</p>
+    </div>
+</div>
+
+<div id="startbot" class="step">
+    <div class="step__info step-position step-off">
+        <p class="step__info-cont">11 de 12</p>
+        <div class="btn-voltar-step"><i class="far fa-angle-left"></i>VOLTAR</div>
+        <p class="step__info-title">Navegação de Páginas</p>
+        <p class="step__info-desc">Acesse rapidamente a página que deseja.</p>
+        <div class="step__info-btn">Próximo</div>
+        <p class="step__info-pular slide-menu-close">pular</p>
+    </div>
+</div>
+
+<div class="shadow-box" style="display:none;">
+    <div id="final-step" class="step step-off">
+        <p class="final-title">LOREM IPSUM DOLOR SIT AMET</p>
+        <div class="final-subtitle">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id lectus dictum sapien mattis volutpat elementum eu eros. Fusce sed blandit metus, ut sodales lorem. Etiam elit risus, condimentum ac nisl a, euismod pellentesque purus. Ut suscipit, leo et ornare congue, elit sapien porttitor nisi, non varius felis arcu vel eros. In pretium tincidunt sapien. <span>Curabitur aliquet ligula ipsum, et sagittis ex rutrum nec.</span> Sed vel ligula dapibus, posuere libero nec, vulputate lacus. Mauris scelerisque justo in facilisis elementum. Vivamus at augue vitae magna consectetur ultricies mollis nec sem. Integer ac ullamcorper purus. Curabitur facilisis, velit vitae porttitor venenatis, leo ipsum sollicitudin purus, at convallis enim diam sit amet massa.</p>
+            <div class="box-marcar">
+                <div class="cicle-grp">
+                    <i class="fas fa-circle yellow-c"></i>
+                    <i class="fas fa-circle green-c"></i>
+                    <i class="fas fa-circle blue-c"></i>
+                    <i class="fas fa-circle red-c"></i>
+                </div>
+                <ul>
+                    <li class="item-grp">
+                        <img class="icon-grp" src="/Leitor/images/list-card.png" />
+                        <p>
+                            Nova nota
+                        </p>
+                    </li>
+                    <li class="item-grp">
+                        <img class="icon-grp" src="/Leitor/images/aspas.png" />
+                        <p>
+                            Nova Citação
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="step__info" style="margin-left: 60vh;">
+            <div class="btn-voltar-step"><i class="far fa-angle-left"></i>VOLTAR</div>
+            <p class="step__info-cont">12 de 12</p>
+            <p class="step__info-title">Opções de sinalização</p>
+            <p class="step__info-desc">Ao selecionar um trecho, destaque-o com cores, gere uma nota ou o compartilhe como uma citação.</p>
+            <div class="step__info-btn step__info-btn--finalizar">Finalizar</div>
+            <p class="step__info-pular slide-menu-close">Pular</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <!--MENU PDF -->
+    <header class="menu menu-desktop menu-desktop-pdf">
+        <div class="laterais__leitor">
+            <a tabindex="0" aria-checked="true" href="/" class="menu__back-button" onclick="closeBook()">
+                <i class="far fa-angle-left"></i>VOLTAR
+            </a>
+            <nav class="leitor-acessibilidade">
+                <ul class="leitor-acessibilidade">
+                    <li><a tabindex="0" class='acess-conteudo' title="Digite alt + 1 para ir para o conteúdo do livro">Ir para conteúdo</a></li>
+                    <li><a tabindex="0" class='acess-menu' title="Digite alt + 2 para acessar o menu">Ir para o menu</a></li>
+                    <li><a tabindex="0" class='acess-busca' title="Digite alt + 3 para acessar a pesquisa">Ir para a busca</a></li>
+                    <li><a tabindex="0" class='acess-paginacao' title="Digite alt + 4 para acessar a paginação do livro">Ir para a paginação</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="meio__leitor">
+            <div class="menu__items menu-tutorial">
+                <div class="step">
+                    <button id='acess-btn-sumario' class="menu__items-buttons menu-icon-tutorial btn-sumario fal fa-list-ul active" tabindex="0">
+                        <p>Sumário</p>
+                    </button>
+                    <div class="step__info step-off">
+                        <p class="step__info-cont">1 de 9</p>
+                        <p class="step__info-title">Sumário</p>
+                        <p class="step__info-desc">
+                            Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                        </p>
+                        <div class="step__info-btn">Próximo</div>
+                        <p class="step__info-pular">Pular</p>
+                    </div>
+                </div>
+                <div class="step">
+                        <button class="menu__items-buttons  menu-icon-tutorial btn-print fal fa-print" tabindex="0">
+                            <p>Impressão</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont">2 de 9</p>
+                            <p class="step__info-title">Impressão</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+                </div>
+                <div class="step">
+                    <button id="btnZoom_pdf"
+                            class="menu__items-buttons  menu-icon-tutorial btn-opcao-zoom fal fa-search-plus" tabindex="0">
+                        <p class="btn_text">Zoom</p>
+                    </button>
+                    <div class="step__info step-off">
+                        <div class="btn-voltar-step"><i class="fal fa-angle-left"></i>VOLTAR</div>
+                        <p class="step__info-cont">4 de 12</p>
+                        <p class="step__info-title">Zoom</p>
+                        <p class="step__info-desc">Amplie ou reduza a visualização da página.</p>
+                        <div class="step__info-btn">Próximo</div>
+                        <p class="step__info-pular slide-menu-close">Pular</p>
+                    </div>
+                    <div id="box-zoom" class="box-zoom">
+                        <i class="fal fa-search-plus btn-close-zoom" style="z-index: 99;"></i>
+                        <i class="fal fa-plus"></i>
+                        <i class="fal fa-minus"></i>
+                    </div>
+                </div>
+
+                <div class="step">
+
+                        <button class="menu__items-buttons  menu-icon-tutorial btn-marcacao fal fa-bookmark" tabindex="0">
+                            <p class="font-light">Marcar Página</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont">5 de 9</p>
+                            <p class="step__info-title">Marcar Páginas</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+
+                </div>
+                <div class="step">
+
+                        <button class="menu__items-buttons  menu-icon-tutorial btn-pagina-marcada fal fa-book" id="btnDestaquesNotas" tabindex="0">
+                            <p>Destaques e Notas</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont">6 de 9</p>
+                            <p class="step__info-title">Notas, Marcação e Páginas Marcadas</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+
+                </div>
+                <div class="step">
+                        <button class="menu__items-buttons  menu-icon-tutorial btn-cartoesEstudos fal fa-id-card" tabindex="0">
+                            <p>Cartões de Estudo</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont">7 de 9</p>
+                            <p class="step__info-title">Cartões de Estudo</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+
+                </div>
+
+                <div class="step">
+
+                        <button class="menu__items-buttons menu-icon-tutorial btn-editar fal fa-pencil-alt" onclick="containerEditTogglePDF()" tabindex="0">
+                            <p>Marcar <br />Texto</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont"> de 10</p>
+                            <p class="step__info-title">Marcação</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+
+                </div>
+                <div class="step">
+
+                        <button class="menu__items-buttons  menu-icon-tutorial btn-olho fas fa-eye" id="btnOlhoPDF" tabindex="0">
+                            <p class="font-light">Ocultar <br />Marcações</p>
+                        </button>
+                        <div class="step__info step-off">
+                            <p class="step__info-cont"> de 10</p>
+                            <p class="step__info-title">Marcação</p>
+                            <p class="step__info-desc">
+                                Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.Lorem ipsum domec.
+                            </p>
+                            <div class="step__info-btn">Próximo</div>
+                            <p class="step__info-pular">Pular</p>
+                        </div>
+
+                </div>
+
+                <input style="opacity:0; position:absolute; left:-9999px" type="text" id="input-copiar-link">
+                <div class="step menu__p-link" data-hint="Link copiado">
+                    <button tabindex="0" aria-checked="true" class="menu__items-buttons menu-icon-tutorial btn-copiar-link fal fa-link">
+                        <p>Copiar Link</p>
+                    </button>
+                    <div class="step__info step-off">
+                        <div class="btn-voltar-step"><i class="fal fa-angle-left"></i>VOLTAR</div>
+                        <p class="step__info-cont">8 de 9</p>
+                        <p class="step__info-title">Copiar Link</p>
+                        <p class="step__info-desc">
+                            Copia o link da url do livro que está lendo.
+                        </p>
+                        <div class="step__info-btn">Próximo</div>
+                        <p class="step__info-pular slide-menu-close">Pular</p>
+                    </div>
+                </div>
+
+
+                <div class="step">
+                    <button class="menu__items-buttons  menu-icon-tutorial btn-audio fal fa-volume" tabindex="0">
+                        <p>Text to Speech</p>
+                    </button>
+                    <div class="step__info step-off">
+                        <p class="step__info-cont">8 de 9</p>
+                        <p class="step__info-title">Text to Speech</p>
+                        <p class="step__info-desc">
+                            Quando disponível, selecione esta opção e ouça o livro que está lendo.
+                        </p>
+                        <div class="step__info-btn">Próximo</div>
+                        <p class="step__info-pular">Pular</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="laterais__leitor">
+            <div class="menu__search">
+                <label for="search" class="menu__search-label"><i class="fal fa-search"></i></label>
+                <input type="text" class="menu__search-input trigger-pesquisar" id="search" placeholder="Pesquisar" tabindex="0">
+            </div>
+        </div>
+    </header>
+    <header class="menu-mobile">
+        <a href="javascript:void(0)" class="menu-button" ass="hamburger" onclick="openNav()"><i class="fal fa-bars"></i></a>
+        <div class="menu-navigation">
+            <div class="menu-button mobile-zoom-btn btn-opcao-zoom">
+                <i id="btnZoom" class="fal fa-search-plus"></i>
+                <div class="box-zoom box-zoom__mobile" style="display: none;">
+                    <i class="fal fa-times btn-close-zoom" style="z-index: 99;"></i>
+                    <i class="fal fa-plus btn-opcao-zoom" id="zoom_in__mobile"></i>
+                    <i class="fal fa-minus btn-opcao-zoom" id="zoom_out__mobile"></i>
+                </div>
+            </div>
+            <a href="#" class="menu-button" onclick="containerEditTogglePDF()">
+                <i class="fal fa-pencil-alt icone-edit btn-editar mobile-color"></i>
+            </a>
+            <a href="#" class="menu-button markers-button">
+                <i class="fa-eye fas fa-eye active-eye"></i>
+            </a>
+            <a href="#" class="menu-button btn-marcacao"><i class="fal fa-bookmark"></i></a>
+            <a href="#" class="menu-button trigger-pesquisar"><i class="fal fa-search"></i></a>
+            <a href="#" class="menu-button btn-footer"><i class="fal fa-angle-down"></i></a>
+        </div>
+    </header>
+
+
+<style>
+    .plyr {
+        display: none;
+    }
+</style>
+
+<div class="controlers">
+    <audio id="player" async controls data-plyr-config='{ "title": "Example Title" }' onerror="gerarAudio();"></audio>
+    <div class="change-speed">
+        <a class="btn__speed" style="color: #55A8FD;" href="#" onclick="addSpeedAudio(0.25);"><i class="fal fa-plus"></i></a>
+        <a href="#" id="close-speed" style="color: #55A8FD;"><span class="audioSpeed">1</span>x</a>
+        <a class="btn__speed" style="color: #55A8FD;" href="#" onclick="decreaseSpeedAudio(0.25)"><i class="fal fa-minus"></i></a>
+    </div>
+
+    <div class="controlers__audio">
+        <div class="control-audio">
+            <a id="left-control-tS" href="#"><i class="fas fa-step-backward"></i></a>
+            <a class="play" onclick="playPauseAudio();"><i class="far fa-play-circle" id="player-i"></i></a>
+            <a id="right-control-tS"><i class="fas fa-step-forward rt"></i></a>
+        </div>
+        <a href="#" class="close-audio"><i class="fal fa-times"></i></a>
+    </div>
+</div>
+
+
+<div class="overlay" id="myNav">
+    <div class="header">
+        <p>Opções</p>
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fal fa-times slide-menu-close"></i></a>
+    </div>
+    <div class="menu-container">
+        <img src="https://staticbv.bvirtual.com.br/publicacoes/164117/thumbs/thumbnail_397_x_595.jpg" alt="">
+        <div class="book-info">
+            <p class="title">Ind&#xFA;stria 4.0: conceitos e fundamentos </p>
+            <p class="author">Walter Cardoso S&#xE1;tyro, ,Jos&#xE9; Benedito S...</p>
+        </div>
+    </div>
+    <nav class="menu-intern">
+        <a href="#" class="menu-links btn-sumario"><i class="fas fa-bars"></i>Sumário</a>
+        <a href="#" class="menu-links btn-print"><i class="fas fa-print"></i>Imprimir</a>
+        <a href="#" class="menu-links btn-opcao-leitura"><i class="far fa-font"></i>Opções de Leitura</a>
+        <a href="#" class="menu-links btn-pagina-marcada"><i class="far fa-book"></i>Destaques e Notas</a>
+        <a href="#" class="menu-links btn-cartoesEstudos"><i class="far fa-id-card"></i>Cartões de Estudo</a>
+        <a href="#" id="btn__textSpeech--mobile" class="menu-links btn-audio"><i class="far fa-volume-up"></i>Text to Speech</a>
+        <a href="#" onclick="$.fancybox.open($('#referencia'));" class="menu-links"><i class="far fa-quote-right"></i>Referência Bibliográfica</a>
+        <a href="/" onclick="closeBook()" class="menu-links active" style="color:#FD5555"><i class="far fa-sign-out-alt"></i>Sair do Livro e voltar ao início</a>
+    </nav>
+</div>
+
+<script>
+    let botaoTextToSpeech = document.querySelector('#btn__textSpeech--mobile')
+    botaoTextToSpeech.addEventListener('click', function() {
+        closeNav()        
+    })
+    
+    function closeBook() {
+        updateBoxEditPDF('boxEditPDF')
+        setUpdateZoom('zoomPDF', 5)
+    }
+</script>
+
+
+<aside class="slide-menu" style="right: -1000px;opacity: 0;z-index: -1">
+    <section class="sumario">
+        <header class="header">
+            <h2 id="sumarioTitleMenu" tabindex="0" aria-checked="true" class="sumario--header-title">Sumário</h2>
+            <i tabindex="0" aria-label="botão de fechar o menu sumário" class="fal fa-times slide-menu-close"></i>
+        </header>
+            <div tabindex="0" aria-checked="true" class="box-capt">
+                <div class="box-capt-left">
+                    <p tabindex="0" aria-checked="true">O sumário não está disponível para esse livro.</p>
+                </div>
+            </div>
+    </section>
+
+    <section class="imprimir">
+
+    </section>
+
+    <section class="opcao-leitura">
+        <header class="header">
+            <h2 id="opcaoDeLeituraTitleMenu" tabindex="0" aria-checked="true" class="sumario--header-title">Opções de Leitura</h2>
+            <i tabindex="0" aria-checked="true" role="botão de fechar o menu opções de leitura" class="fal fa-times slide-menu-close"></i>
+        </header>
+        <section class="credito-menu-b">
+            <section class="border-b line-metas">
+                <p tabindex="0" aria-checked="true" class="ui-text">Modo Noturno</p>
+                <label class="switch">
+                    <input type="checkbox">
+                    <span class="slider round"></span>
+                </label>
+            </section>
+            <section class="fonts">
+                <h3 tabindex="0" aria-checked="true" class="fonts-title">Tamanho da Fonte</h3>
+                <ul class="fonts-grp tamanhofonte" id="tamanhofonte">
+                    <li tabindex="0" aria-checked="true" class="font smaller" data="smaller" id="smaller">A</li>
+                    <li tabindex="0" aria-checked="true" class="font small" data="small" id="small">A</li>
+                    <li tabindex="0" aria-checked="true" class="font normal select" data="normal" id="normal">A</li>
+                    <li tabindex="0" aria-checked="true" class="font big" data="big" id="big">A</li>
+                    <li tabindex="0" aria-checked="true" class="font biggest" data="biggest" id="biggest">A</li>
+                </ul>
+            </section>
+            <section class="fonts">
+                <h3 tabindex="0" aria-checked="true" class="fonts-title">Cor do Fundo</h3>
+                <ul class="fonts-grp" id="corfundo">
+                    <li tabindex="0" aria-checked="true" class="fundo padrao select" data="padrao" id="padrao">Padrão</li>
+                    <li tabindex="0" aria-checked="true" class="fundo escuro" data="escuro" id="escuro">Escuro</li>
+                    <li tabindex="0" aria-checked="true" class="fundo sepia" data="sepia" id="sepia">Sépia</li>
+                </ul>
+            </section>
+            <section class="fonts">
+                <h3 tabindex="0" aria-checked="true" class="fonts-title">Espaço Entre as Linhas</h3>
+                <ul class="fonts-grp" id="entrelinhas">
+                    <li tabindex="0" aria-checked="true" class="font entre-linha-1" data="linha1" id="linha1">
+                        <img src="/Leitor/images/sidebar-leitor/line1.png" alt="">
+                        <img src="/Leitor/images/sidebar-leitor/line1-mn.png" alt="" class="mn">
+                    </li>
+                    <li tabindex="0" aria-checked="true" class="font entre-linha-2" data="linha2" id="linha2">
+                        <img src="/Leitor/images/sidebar-leitor/line2.png" alt="">
+                        <img src="/Leitor/images/sidebar-leitor/line2-mn.png" alt="" class="mn">
+                    </li>
+                    <li tabindex="0" aria-checked="true" class="font entre-linha-3 select" data="linha3" id="linha3">
+                        <img src="/Leitor/images/sidebar-leitor/line3.png" alt="" data="linha3">
+                        <img src="/Leitor/images/sidebar-leitor/line3-mn.png" alt="" class="mn">
+                    </li>
+                    <li tabindex="0" aria-checked="true" class="font entre-linha-4" data="linha4" id="linha4">
+                        <img src="/Leitor/images/sidebar-leitor/line4.png" alt="" data="linha4">
+                        <img src="/Leitor/images/sidebar-leitor/line4-mn.png" alt="" class="mn">
+                    </li>
+                    <li tabindex="0" aria-checked="true" class="font entre-linha-5" data="linha5" id="linha5">
+                        <img src="/Leitor/images/sidebar-leitor/line5.png" alt="" data="linha5">
+                        <img src="/Leitor/images/sidebar-leitor/line5-mn.png" alt="" class="mn">
+                    </li>
+                </ul>
+            </section>
+            <button tabindex="0" aria-checked="true" class="select-item-step-btn select-item-step-btn__blue">Salvar preferências</button>
+        </section>
+    </section>
+
+    <section class="pagina-marcada">
+        <header class="header">
+            <p></p>
+            <i id="paginaMarcadaBotaoFecharMenu" tabindex="0" aria-checked="true" role="botão de fechar o menu de páginas marcadas" class="fal fa-times slide-menu-close"></i>
+        </header>
+        <ul class="slide-menu-select">
+                <li tabindex="0" aria-checked="true" class="slide-menu-select__item marcada-menu slide-menu-select__item-active">Páginas Marcadas</li>
+                <li tabindex="0" aria-checked="true" class="slide-menu-select__item destaque-menu">Destaques e Notas</li>
+                <li tabindex="0" aria-checked="true" class="slide-menu-select__item citacao-menu">Citações Compartilhadas</li>
+        </ul>
+        <div class="select-item pagina-marcada-menu select-item-active">
+            
+        </div>
+        <div class="select-item destaque-menu-b" style="margin-bottom:10px;">
+            <form class="form-nota">
+                <textarea id="textoNota"></textarea>
+                <button tabindex="0" aria-checked="true" id="btnSaveNote"><i class="fas fa-spinner fa-spin spin-excel" style="display:none;"></i>Adicionar Nota</button>
+            </form>
+            <div class="destaque-infos">
+                
+            </div>
+        </div>
+        <div class="select-item citacao-menu-b" id="citacoesCompartilhadasGeral">
+            
+        </div>
+    </section>
+
+    <section class="cartoesEstudos">
+        <header class="header">
+            <h2 id="cartoesDeEstudoTitleMenu" tabindex="0" aria-checked="true" class="sumario--header-title">Cartões de Estudo</h2>
+            <i tabindex="0" aria-checked="true" role="botão de fechar o menu cartões de estudos" class="fal fa-times slide-menu-close"></i>
+        </header>
+        <div class="credito-menu-b">
+            <div class="criar-grupo" style="">
+                <p tabindex="0" aria-checked="true" class="criar-grupo-title">
+                    Crie seu grupo de cartões!
+                </p>
+                <p tabindex="0" aria-checked="true" class="criar-grupo-text">Clique no botão abaixo para criar um grupo de cartões de estudo.</p>
+                <button class="select-item-step-btn__blue creater-new-grp">Criar o Grupo</button>
+            </div>
+            <div class="grp-creater" id="createrOne" style="display: none">
+                <header class="back-grp" id="back-one" style="background: white">
+                    <i tabindex="0" aria-checked="true" class="far fa-chevron-left"></i> Voltar
+                </header>
+                <header class="back-grp" id="back-one-2" style="display:none; background: white">
+                    <i tabindex="0" aria-checked="true" class="far fa-chevron-left"></i> Voltar
+                </header>
+                <div class="body-grp">
+                    <p tabindex="0" aria-checked="true" class="title">Novo Grupo de Cartões</p>
+                    <p tabindex="0" aria-checked="true" class="subtitle">Digite abaixo o nome do grupo de cartões.</p>
+                    <input type="text" class="textarea" id="txtNomeGrupo">
+                </div>
+                <div class="center-item">
+                    <button tabindex="0" aria-checked="true" type="button" id="adc-grupo-card" class="cartoesEstudo-btn">Adicionar Grupo</button>
+                </div>
+            </div>
+            <div id="divCartoes">
+
+            </div>
+            <button class="select-item-step-btn__blue creater-new-grp belongCreatThree" style="display:none">Criar o Grupo</button>
+        </div>
+    </section>
+
+    <div style="display: none;" id="erroNota" class="box-sucess">
+        <button data-fancybox-close class="btn-backpage">
+            <i class="fas fa-chevron-left"></i>
+            VOLTAR
+        </button>
+        <i class="fas fa-info-circle"></i>
+        <p class="box-sucess__messenger">
+            <strong>Atenção!</strong> <br>
+            Por favor, digite um texto para sua nota.
+        </p>
+        <button class="btn btn--modal" data-fancybox-close>Seguir</button>
+    </div>
+
+    <section class="pesquisa">
+        <header tabindex="0" aria-checked="true" class="header">
+            <div class="input-search-menu">
+                <i class="busca-palavra fal fa-search"></i>
+                <input id="inputPesquisarMenu" tabindex="0" aria-checked="true" role="Digite para pesquisar" class="txt-busca" placeholder="Pesquisar">
+            </div>
+            <i tabindex="0" aria-checked="true" role="botão de fechar o menu de pesquisa" class="fal fa-times slide-menu-close"></i>
+        </header>
+
+        <div class="slider-padding-block container__pesquisa">
+            <p tabindex="0" aria-checked="true" class="init-text-pesquisa">Digite algo para pesquisar</p>
+        </div>
+    </section>
+</aside>
+
+<script>
+    window.onload = function () {
+        var name = "noturno";
+
+        console.log(getCookie(name));
+    };
+</script>
+
+
+
+
+    <section class="book">
+        <link rel="stylesheet" href="/Leitor/styles/leitorpdf.css">
+        <link rel="stylesheet" href="/Leitor/styles/font-awesome.min.css">
+        <div class="book__container" id="bookslick" style="overflow: hidden; touch-action: pan-y;">
+
+            <div id="pdf__viewer">
+                <div class="loading-cicle__center" style="display:none;">
+                    <img class="icon-preloader" alt="Logo Biblioteca Virtual" src="/images/Logo_BV.png">
+                    <p class="loading-cicle__center--position">Carregando</p>
+                </div>
+                <div id="canvas__container">
+
+                </div>
+            </div>
+            <div class="arrows-control right" id="right-control" tabindex="12" aria-label="Próxima página"><i class="fas fa-chevron-right"></i></div>
+            <div class="arrows-control left" id="left-control" tabindex="10" aria-label="Página anterior"><i class="fas fa-chevron-left"></i></div>
+        </div>
+        <div id="containerBookAvaliar" class="book__avaliar" onclick="$.fancybox.open($('#avaliar'));">
+            <i class="fas fa-star"></i>
+            <p class="book__avaliar-text">O que esta achando do livro? Clique e comente :)</p>
+        </div>
+
+        <div class="book__report-box" onclick="$.fancybox.open(document.querySelector('.reportErrorModal'))" onmouseover="expandBox()" onmouseout="normalBox()">
+            <button class="book__report-error">
+                <i class="fas fa-exclamation"></i>
+            </button>
+            <p class="report--deactive">Reportar erro</p>
+        </div>
+
+        <input type="hidden" id="totalPagina" value="183" />
+        <input type="hidden" id="paginaAtual" value="0" />
+    </section>
+
+<section id="search-mobile" class="search-mobile">
+    <div class="header">
+        <p>Buscar conteúdo</p>
+        <i class="fal fa-times btn-close"></i>
+    </div>
+    <form action="#" class="search-wrapper">
+        <button class="far fa-search"></button>
+        <input type="text" placeholder="Pesquisar">
+    </form>
+</section>
+
+<footer class="footer">
+    <div class="header">
+        <p>Navegação de Páginas</p>
+        <i class="fal fa-times btn-close"></i>
+    </div>
+
+    <div class="footer__buttons footer__lateral lateral__esq">
+        <img class="footer__img-logo" src="/Leitor/images/leitor/icon-bv-leitor-footer.svg" alt="Logo da biblioteca virtual">
+        <img class="point-referencia" src="/Leitor/images/leitor/iconmonstr-quote-13.png" alt="">
+        <div class="block-blue" onclick="$.fancybox.open($('#referencia'));">
+            <p>Referência <br /> Bibliográfica</p>
+            <img class="spac-img" src="/Leitor/images/iconmonstr-quote-13-branco.png" />
+        </div>
+        <p class="footer__progress-pages">Ind&#xFA;stria 4.0: conceitos e fundamentos</p>
+    </div>
+    
+    <div class="footer__progress footer__meio">
+        <div class="footer__progress-bar" id="slider-range"></div>
+    </div>
+
+    <div class="footer__page footer__lateral lateral__dir">
+
+            <p class="footer__quantidades-paginas">Página <span id="page">1</span> de <span id="totalPaginas">0</span> (<span id="porcentagem">0</span>)</p>
+            <div class="footer__page">
+                <input value="1" type="text" id="insert-numeroPagina" />
+            </div>
+
+        <button class="footer__page-btnexpand" onclick="toggleFullScreen()">
+            <span class="footer__btnexpand--title">Expandir</span>
+            <i class="far fa-expand-wide"></i>
+        </button>
+
+    </div>
+
+    <div class="footer__slider">
+        <button class="fas fa-chevron-left" onclick="$('#left-control').click();"></button>
+        <div class="footer__slider-tracker" id="slider-range-mobile">
+        </div>
+        <button class="fas fa-chevron-right" onclick="$('#right-control').click();"></button>
+    </div>
+    <div class="footer__mobile-pages"><span id="pageMobile"></span> de <span id="totalPaginasMobile"></span> (<span id="porcentagemMobile"></span>)</div>
+</footer>
+
+
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: 529030397681592,
+            autoLogAppEvents: true,
+            xfbml: true,
+            version: 'v5.0'
+        });
+    };
+</script>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v5.0&appId=529030397681592&autoLogAppEvents=1"></script>
+
+<div style="display: none;overflow-x:hidden;min-width: 145px;" id="citacao-compartilhada">
+    <div class="aling-info-comp" id="boxCitacaoCompartilhar">
+        <div class="box-citacao" style="min-width: 325px;">
+            <div class="card-citacao">
+                <div class="card-citacao__title">
+                    <div class="item-l">
+                        <img src="/Leitor/images/iconquote.jpg" alt="Icone Quote" />
+                    </div>
+                    <div class="item-r">
+                        <i onclick="$.fancybox.close($('#citacao-compartilhada'));" class="btn-close-compartilhar fal fa-times close-citacoes"></i>
+                        <div class="card-citacao__author" style="display: none">
+                            <img src="https://placeimg.com/24/24/any" alt="{nome}">
+                            <p class="card-citacao__author-name">Por Pedro Lewis</p>
+                        </div>
+                    </div>
+                </div>
+                <p class="card-citacao-text" id="textoNovaCitacao">
+
+                </p>
+                <div class="card-citacao-line"></div>
+                <p class="card-citacao-title">Walter Cardoso S&#xE1;tyro, ,Jos&#xE9; Benedito S...</p>
+                <p class="card-citacao-desc" style="margin-bottom: 30px;">Ind&#xFA;stria 4.0: conceitos e fundamentos</p>
+                <a href="#" class="card-citacao-link">www.bvirtual.com.br</a>
+
+                <button class="btn-fist-comp" style="font-family: 'Open Sans', serif !important;line-height: 1.750em !important;border: none;">Compartilhar na Biblioteca Virtual</button>
+                <input style="opacity:0; position:absolute; left:-9999px" type="text" id="input-copiar-citacao">
+                <button class="btn-copiar-citacao" onclick="copyCitation();">Copiar Citação</button>
+
+            </div>
+            <p class="second-comp">Compartilhe nas redes</p>
+            <div class="grp-comp-redes">
+                <a href="javascript:Share('https://www.facebook.com/sharer/sharer.php?u=https://bvirtual.com.br/citacoes/' , 520, 350)" id="linkShareFacebook" style="text-decoration:none" class="cicle-comp">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <meta property="og:image" content="https://bvirtual.com.br/citacoes/" />
+                <a class="cicle-comp" style="text-decoration:none" data-action="share/whatsapp/share" href="javascript:Share('https://web.whatsapp.com/send?text=https://bvirtual.com.br/citacoes/', 800, 550)">
+                    <i class="fab fa-whatsapp cicle-comp"></i>
+                </a>
+                <a href="javascript:Share('http://www.twitter.com/share?url=https://www.bvirtual.com.br/citacoes/', 520, 350)" style="text-decoration:none" class="cicle-comp">
+                    <i class="fab fa-twitter cicle-comp"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="loading-cicle__center" style="width:auto; justify-content:flex-start; display:none" id="loadingCitacao">
+        <img class="icon-preloader" alt="Logo Biblioteca Virtual" src="/images/Logo_BV.png">
+    </div>
+
+    <div style="display: none;" id="referencia" class="minhalista-modal bg-white alaviarid referencia-modal">
+        <div class="box-sucess">
+            <button data-fancybox-close class="btn-backpage">
+                <i class="fas fa-chevron-left"></i>
+                VOLTAR
+            </button>
+            <p class="title">Referência Bibliográfica</p>
+            <div class="box-descricao">
+                <p>Farrell, Michael. Dificuldades de comunicação e autismo.. [Minha Biblioteca].</p>
+            </div>
+            <p class="subtitle">
+                Sobrenome, Nome. Título do Livro, Edição. Cidade da Edição: Editor, Ano da Edição. Formato da Edição.
+            </p>
+            <p class="observacao-title">Observação</p>
+            <p class="subtitle">Lembre-se de checar com a sua instituição de ensino as regras para geração de referência bibliográfica.</p>
+            <div class="grp-btn">
+                <button class="btn btn-modal btn-fim btn-full" data-fancybox-close>Copiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<input type="hidden" id="booIdAvaliacao" value="164117" />
+
+<style>
+
+.fa-times-circle {
+    font-size: 12rem;
+    color: #fd5555;
+    margin-bottom: 2rem;
+    width: 100%;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.center {
+    margin: auto;
+}
+
+.fancybox-close-small {
+    display: none;
+}
+
+.container__dicionario-title {
+    font-size: 1.85rem;
+    font-weight: 600;
+    margin-top: 25px;
+    text-align: left;
+    word-break: break-word;
+    line-height: 25px;
+}
+
+.box__dicionario {
+    margin-top: 20px;
+}
+
+.box__dicionario-descricao:nth-child(3) {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.box__dicionario-descricao {
+    font-size: 1.5rem;
+    margin: 15px 0px;
+    color: #777;
+}
+
+.box__dicionario-descricao strong {
+    color: #000;
+}
+
+.box__dicionario-linha {
+    background-color: #CCCFD5;
+    height: 1px;
+    margin: 8px 0px;
+}
+
+.box__dicionario-linha:last-child {
+    background-color: transparent;
+    height: 0px;
+    margin: 0px;
+}
+
+.loader {
+    border: 4px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 4px solid #3498db;
+    width: 60px;
+    height: 60px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+    @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+</style>
+
+<div style="display: none;" id="avaliar" class="minhalista-modal bg-white alaviarid">
+    <div class="box-sucess">
+        <button data-fancybox-close class="btn-backpage">
+            <i class="fas fa-chevron-left"></i>
+            VOLTAR
+        </button>
+        <p class="title">Avalie esse livro!</p>
+        <p class="subtitle">
+            Queremos saber a sua opinião, conte pra gente o que você achou deste livro.
+        </p>
+
+        <div class="block">
+            <label class="label">Sua Nota</label>
+            <input type="hidden" name="Nota" id="NotaAvaliacao" value="3" />
+            <div class="grp-star">
+                <i class="um fas fa-star active" onclick="setAvaliacaoNota(1)" id="avaliacaoNota1"></i>
+                <i class="dois fas fa-star active" onclick="setAvaliacaoNota(2)" id="avaliacaoNota2"></i>
+                <i class="tres fas fa-star active" onclick="setAvaliacaoNota(3)" id="avaliacaoNota3"></i>
+                <i class="quatro fas fa-star" onclick="setAvaliacaoNota(4)" id="avaliacaoNota4"></i>
+                <i class="cinco fas fa-star" onclick="setAvaliacaoNota(5)" id="avaliacaoNota5"></i>
+            </div>
+            <label class="label" style="color:red;display:none;" id="erroNota">Selecione a Nota</label>
+        </div>
+
+        <div class="block">
+            <label for="avaliacao" class="label">Sua Avaliação</label>
+            <textarea class="textarea" rows="5" cols="33" id="Comentario" name="Comentario"></textarea>
+            <label class="label" style="color:red;display:none;" id="erroComentario">Escreva uma avaliação</label>
+        </div>
+
+        <div class="block">
+            <label for="avaliacao" class="label">Escolha tags que representem sua avaliação</label>
+            <div class="grp-select">
+                    <div class="item-check" data-id="2" onclick="MarcarTag(2)" id="tagAvaliacao2">Boa editora</div>
+                    <div class="item-check" data-id="6" onclick="MarcarTag(6)" id="tagAvaliacao6">Autor recomendado</div>
+                    <div class="item-check" data-id="7" onclick="MarcarTag(7)" id="tagAvaliacao7">Leitura f&#xE1;cil</div>
+                    <div class="item-check" data-id="8" onclick="MarcarTag(8)" id="tagAvaliacao8">Excelente </div>
+                    <div class="item-check" data-id="9" onclick="MarcarTag(9)" id="tagAvaliacao9">Vale a leitura</div>
+                    <div class="item-check" data-id="11" onclick="MarcarTag(11)" id="tagAvaliacao11">Leitura densa</div>
+                    <div class="item-check" data-id="12" onclick="MarcarTag(12)" id="tagAvaliacao12">Best seller</div>
+                    <div class="item-check" data-id="13" onclick="MarcarTag(13)" id="tagAvaliacao13">Top 10 melhores livros</div>
+                    <div class="item-check" data-id="14" onclick="MarcarTag(14)" id="tagAvaliacao14">Livro refer&#xEA;ncia</div>
+            </div>
+        </div>
+
+        <div class="grp-btn">
+            <button class="btn btn-modal btn-fim" onclick="SalvarAvaliacao()" id="btnSalvarAvaliacao" style="max-width: 100%"><i class="fas fa-spinner fa-spin spin-excel" style="display:none;"></i>Salvar Avaliação</button>
+        </div>
+    </div>
+</div>
+
+<a data-fancybox data-src="#msgSucessoAvaliacao" style="display:none" id="linkmsgSucessoAvaliacao" href="javascript:;">
+</a>
+
+<a data-fancybox data-src="#msgExistingAvaliacao" style="display:none" id="linkmsgExistingAvaliacao" href="javascript:;">
+</a>
+
+<div style="display: none;" id="msgExistingAvaliacao" class="box-sucess">
+    <button data-fancybox-close class="btn-backpage">
+        <i class="fas fa-chevron-left"></i>
+        VOLTAR
+    </button>
+    <i class="fas fa-times-circle"></i>
+    <p class="box-sucess__messenger">
+        Livro já avaliado
+    </p>
+    <button class="btn btn--modal" data-fancybox-close>Fechar</button>
+</div>
+
+<div style="display: none;" id="msgSucessoAvaliacao" class="box-sucess">
+    <button data-fancybox-close class="btn-backpage">
+        <i class="fas fa-chevron-left"></i>
+        VOLTAR
+    </button>
+    <i class="fas fa-check-circle"></i>
+    <p class="box-sucess__messenger">
+        Agradecemos sua avaliação
+    </p>
+    <button class="btn btn--modal" data-fancybox-close>Fechar</button>
+</div>
+
+<div style="display: none;" id="erroDicionario" class="box-sucess">
+    <button data-fancybox-close class="btn-backpage">
+        <i class="fas fa-chevron-left"></i>
+        VOLTAR
+    </button>
+    <i class="fa fa-info-circle"></i>
+    <p class="box-sucess__messenger">
+        Por favor, selecione apenas uma palavra para fazer a busca no dicionário.
+    </p>
+</div>
+
+<div id="dicionario" class="box-sucess" style="display:none;">
+    <button data-fancybox-close class="btn-backpage">
+        <i class="fas fa-chevron-left"></i>
+        VOLTAR
+    </button>
+    <p class="container__dicionario-title"></p>
+    <div class="box__dicionario">
+        <br />
+    </div>
+</div>
+
+<script>
+    function MarcarTag(id) {
+        $("#tagAvaliacao" + id).toggleClass('item-check-active');
+    }
+
+    function setAvaliacaoNota(valor) {
+        $("#NotaAvaliacao").val(valor);
+        $('#avaliacaoNota1').removeClass('active');
+        $('#avaliacaoNota2').removeClass('active');
+        $('#avaliacaoNota3').removeClass('active');
+        $('#avaliacaoNota4').removeClass('active');
+        $('#avaliacaoNota5').removeClass('active');
+        if (valor >= 1) {
+            $('#avaliacaoNota1').addClass('active');
+        }
+        if (valor >= 2) {
+            $('#avaliacaoNota2').addClass('active');
+        }
+        if (valor >= 3) {
+            $('#avaliacaoNota3').addClass('active');
+        }
+        if (valor >= 4) {
+            $('#avaliacaoNota4').addClass('active');
+        }
+        if (valor >= 5) {
+            $('#avaliacaoNota5').addClass('active');
+        }
+    }
+
+    function SalvarAvaliacao() {
+        $("#btnSalvarAvaliacao").attr('disabled', true);
+        $(".spin-excel").show();
+        $("#erroNota").hide();
+        $("#erroComentario").hide();
+        $('#Comentario').css('border-color','')
+        var temErro = false;
+        if ($("#NotaAvaliacao").val() == 0) {
+            temErro = true;
+            $("#erroNota").show();
+            $("#btnSalvarAvaliacao").attr('disabled', false);
+            $(".spin-excel").hide();
+        }
+        if ($('#Comentario').val().length <= 0) {
+            temErro = true;
+            $('#Comentario').css('border-color','red')
+            $("#erroComentario").show();
+            $("#btnSalvarAvaliacao").attr('disabled', false);
+            $(".spin-excel").hide();
+        }
+
+        if (temErro == false) {
+            var tags = [];
+            $(".item-check-active").each(function (index) {
+                tags.push($(this).attr("data-id"));
+            });
+            $.ajax({
+                type: "POST",
+                url: "/Home/SaveComment",
+                data: {
+                    PublicacaoId: $("#booIdAvaliacao").val(),
+                    Nota: $("#NotaAvaliacao").val(),
+                    Comentario: $("#Comentario").val(),
+                    Tags: tags
+                },
+                success: function (data) {
+                    $("#Comentario").val('');
+                    $("#avaliacaoNota1").addClass('active');
+                    $("#avaliacaoNota2").addClass('active');
+                    $("#avaliacaoNota3").addClass('active');
+                    $("#avaliacaoNota4").removeClass('active');
+                    $("#avaliacaoNota5").removeClass('active');
+                    $(".item-check").removeClass('item-check-active');
+                    parent.$.fancybox.close();
+                    if (data.result == "Existente") {
+                        $("#linkmsgExistingAvaliacao").trigger("click");
+                    } else {
+                        $("#linkmsgSucessoAvaliacao").trigger("click");
+                    }
+
+                    $("#btnSalvarAvaliacao").attr('disabled', false);
+                    $(".spin-excel").hide();
+                },
+                error: function (data) {
+                    $("#btnSalvarAvaliacao").attr('disabled', false);
+                    $(".spin-excel").hide();
+                    parent.$.fancybox.close();
+                },
+            });
+        }
+    }
+</script>
+
+<div style="display: none; " id="referencia" class="minhalista-modal bg-white alaviarid referencia-modal">
+    <div class="box-sucess">
+        <button data-fancybox-close class="btn-backpage"><i class="fas fa-chevron-left"></i>VOLTAR</button>
+        <p class="title">Referência Bibliográfica</p>
+        <div class="box-descricao">
+            <p>Farrell, Michael. Dificuldades de comunicação e autismo.. [Minha Biblioteca].</p>
+        </div>
+        <p class="subtitle">
+            Sobrenome, Nome. Título do Livro, Edição. Cidade da Edição: Editor, Ano da Edição. Formato da Edição.
+        </p>
+        <p class="observacao-title">Observação</p>
+        <p class="subtitle">É de total responsabilidade do usuário o uso de referências bibliográficas em seu trabalho.</p>
+        <div class="grp-btn">
+            <button class="btn btn-modal btn-fim btn-full" data-fancybox-close>Copiar</button>
+        </div>
+    </div>
+</div>
+
+
+<div style="display:none;" id="modalCompra" class="box-sucess">
+    <p class="box-sucess__messenger">
+        <strong>Atenção!</strong> <br>
+        Uma nova janela abrirá para que você efetue a compra. Finalize o processo, retorne a essa tela e atualize a página para conferir seus créditos.
+    </p>
+    <button class="btn btn--modal" data-fancybox-close id="btnModalCompra" type="button" onclick="IrParaCompra();">Comprar</button>
+</div>
+
+<section style="display: none;" class="reportErrorModal">
+    <button data-fancybox-close class="btn-backpage">
+        <i class="fas fa-chevron-left"></i>
+        Voltar
+    </button>
+
+    <h2 class="title titulofeedback">
+        Nos ajude a melhorar
+    </h2>
+    <p class="textoFeedback">Deixe aqui a sua proposta de melhoria ou reporte algum erro encontrado.</p>
+    <textarea placeholder="Digite aqui" name="" id="avaliacao" cols="30" rows="10"></textarea>
+    <button class="button__send sendfeedback" onclick="sendFeedback(164117, $('#avaliacao').val())">Enviar</button>
+</section>
+
+<div class="box-sucess sucesso-feedback" style="display:none" id="sucesso-feedback">
+    <i class="fas fa-check-circle"></i>
+    <p class="box-sucess__messenger">
+        <strong>Obrigado pela sua mensagem!</strong><br>
+    </p>
+    <button class="btn btn--modal" data-fancybox-close data-src="#showremove">Seguir</button>
+</div>
+
+<div class="box-sucess minhalista-modal" style="display:none" id="erromodal">
+    <p class="box-sucess__messenger">
+        <strong>Erro ao realizar a opera&ccedil;&atilde;o!</strong><br>
+        Tente novamente mais tarde.
+    </p>
+    <button class="btn btn--modal" data-fancybox-close data-src="#showMinhaLista">Seguir</button>
+</div>
+
+<div class="box-sucess minhalista-modal" style="display:none" id="loadermodal">
+    <div class="loaderFeedback"></div>
+    <br />
+    <br />
+    <p class="textoFeedback">Carregando</p>
+</div>
+
+
+
+    <script src="/js/localforage.min.js"></script>
+    <script src="/Leitor/scripts/jquery-3.4.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="/Leitor/scripts/jquery-ui.min.js"></script>
+    <script src="/Leitor/scripts/jqueryUiTouchPunch.min.js"></script>
+    <script src="/Leitor/scripts/fabric.min.js"></script>
+    <script src="/Leitor/scripts/hammerjs.min.js"></script>
+    <script src="/scripts/slick.min.js"></script>
+    <script src="/Leitor/scripts/main.js?v=qLNCQmRId09YSkvtmp0EPlf4BlFza22rv_OzGwzlMqs"></script>
+    <script src="/Leitor/js/store/leitorStore.js?v=cOQhOa_2Md8ibsisee76GyVboa5_awHh6byzA2KdTCE"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/RobinHerbots/jquery.inputmask@3.x/dist/jquery.inputmask.bundle.js"></script>
+    <script src="/scripts/contrast.class.js"></script>
+    <script src="/js/mousetrap.min.js"></script>
+    <script src="/js/acessibilidade-leitor.js"></script>
+    <script src="/Leitor/js/leitor.js?v=4lhWnKSHF8e5OwAmXbd75hyEkyeWU-PVjqYUkPp4DAw"></script>
+    <script src="/scripts/plyr.polyfilled.js?v=oQ23jDpy_Pbidb8FsfzesdtUvvMBTQgjDL5ngtsEUPE"></script>
+       <script src="/Leitor/scripts/audio.js?v=k5sJ-EnoqKbkBYcMfMhYwnZcfXt-Qzy7ob9KcpeQVPI"></script>
+    
+    <script type="text/javascript" src="/Leitor/scripts/highlight.js?v=WoFYmhg9HnUCayRISvjOhbKoLNjLC-nyVM9gbTCbxUU"></script>
+    <script type="text/javascript" src="/Leitor/scripts/jquery.touchSwipe.min.js?v=89OKxKSNdqFaIJbiI2FxHA770JbBoovI4BPBGmuD4ks"></script>
+    <script type="text/javascript" src="/Leitor/scripts/download.js?v=64ADb_rbaOBxFBX9PKwWCL2oh6H2uBKzBcxB-2YQaao"></script>
+    <script>
+        var citacoesCompartilhadas = [];
+        let isPdf = $('#currentFormat').val() == 'pdf';
+
+        jQuery(function () {
+            tutorial.init();
+            textSpeach.init();
+            highlights.init();
+            leitorAcoes.init();
+            acoesImpressao.init();
+
+            isCompartilhada = $('#IdContaCompartilhada').val() == "True";
+
+            if (isCompartilhada) {
+                $('#containerBookAvaliar').remove();
+                $('#btn-highlights-cores').remove();
+                $('#btn-highlights-novamarcacao').remove();
+                $('#btn-highlights-citacao').remove();
+            };
+        });
+
+
+        $('.book__slick').slick({
+            dots: false,
+            fade: true,
+            adaptiveHeight: true,
+            infinite: false,
+            slidesToShow: 1,
+            cssEase: 'linear',
+            draggable: false,
+            nextArrow: $("#right-control"),
+            prevArrow: $("#left-control")
+        });
+
+        function openNav() {
+            $('#myNav').css("width", "100%");
+        };
+
+        function closeNav() {
+            $('#myNav').css("width", "0%");
+        };
+        var flip = 0;
+        $(".teste").click(function () {
+            $(".box-zoom").toggle(flip++ % 2 === 0);
+        });
+
+        $(document).on('click', '.show-more', function (e) {
+            var id = $(this).data("id");
+
+            if ($("#textMarcacao" + id).hasClass("text-height")) {
+                $(this).text("Ver menos").append('<i class="fas fa-chevron-up"></i>');
+            } else {
+                $(this).text("Ver mais").append('<i class="fas fa-chevron-down"></i>');
+            }
+            $("#textMarcacao" + id).toggleClass("text-height");
+        });
+
+        //bloqueando hotkeys
+           window.onload = function () {
+               applyPreferences();
+
+               $(document).bind("contextmenu", function (e) {
+                   e.preventDefault();
+               });
+           document.addEventListener("keydown", function (e) {
+               //document.onkeydown = function(e) {
+               // "I" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+                   disabledEvent(e);
+               }
+               // "J" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+                   disabledEvent(e);
+               }
+               // "S" key + macOS
+               if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                   disabledEvent(e);
+               }
+               // "U" key
+               if (e.ctrlKey && e.keyCode == 85) {
+                   disabledEvent(e);
+               }
+               // "F12" key
+               if (event.keyCode == 123) {
+                   disabledEvent(e);
+               }
+
+               // PrintScreen
+               if (e.keyCode == 44) {
+                   disabledEvent(e);
+               }
+
+               //ctrl + C
+               if (e.ctrlKey && e.keyCode == 67) {
+                    disabledEvent(e);
+               }
+
+               //ctrl + P
+               if (e.ctrlKey && e.keyCode == 80) {
+                   disabledEvent(e);
+               }
+
+              // alert(e.keyCode);
+           }, false);
+           function disabledEvent(e) {
+               if (e.stopPropagation) {
+                   e.stopPropagation();
+               } else if (window.event) {
+                   window.event.cancelBubble = true;
+               }
+               e.preventDefault();
+               return false;
+               }
+
+        }
+
+        function applyPreferences() {
+            if(getCookie("noturno") === "true"){
+                $(".opcao-leitura .switch").trigger("click");
+            }
+
+            var tamanhoFonte = getCookie("tamanhofonte");
+            var corFundo = getCookie("corfundo");
+            var espacamento = getCookie("entrelinhas");
+
+            //TAMANHO DA FONTE =================================
+            if (tamanhoFonte === "smaller") {
+                $('#tamanhofonte div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#smaller').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('font-smaller')) {
+                            $('body.leitor').removeClass('font-small font-big font-biggest');
+                            $('body.leitor').addClass('font-smaller');
+                }
+            }
+            else if (tamanhoFonte === "small") {
+                $('#tamanhofonte div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#small').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('font-small')) {
+                    $('body.leitor').removeClass('font-smaller font-big font-biggest');
+                    $('body.leitor').addClass('font-small');
+                }
+            }
+            else if (tamanhoFonte === "normal") {
+                $('#tamanhofonte div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#normal').addClass("select");
+                });
+
+                $('body.leitor').removeClass('font-smaller font-small font-big font-biggest');
+            }
+            else if (tamanhoFonte === "big") {
+                $('#tamanhofonte div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#big').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('font-big')) {
+                    $('body.leitor').removeClass('font-smaller font-small font-biggest');
+                    $('body.leitor').addClass('font-big');
+                }
+            }
+            else if (tamanhoFonte === "biggest") {
+                $('#tamanhofonte div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#biggest').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('font-biggest')) {
+                    $('body.leitor').removeClass('font-smaller font-small font-big');
+                    $('body.leitor').addClass('font-biggest');
+                }
+            }
+
+            //COR DE FUNDO ====================================
+            if (corFundo === "padrao") {
+                $('#corfundo div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#padrao').addClass("select");
+                });
+                $('body.leitor').removeClass('fundo-escuro fundo-sepia');
+            }
+            else if (corFundo === "escuro") {
+                $('#corfundo div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#escuro').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('fundo-escuro')) {
+                    $('body.leitor').removeClass('fundo-sepia');
+
+                    setTimeout(function () {
+                        $('body.leitor').addClass('fundo-escuro');
+                    }, 100);
+                }
+            }
+            else if (corFundo === "sepia") {
+                $('#corfundo div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#sepia').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('sepia')) {
+                    $('body.leitor').removeClass('fundo-escuro');
+
+                    setTimeout(function () {
+                        $('body.leitor').addClass('fundo-sepia');
+                    }, 100);
+                }
+            }
+
+            //ESPAÇAMENTO =================================
+            if (espacamento === "linha1") {
+                $('#entrelinhas div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#linha1').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('entre-linha-1')) {
+                    $('body.leitor').removeClass('entre-linha-2 entre-linha-4 entre-linha-5');
+                    $('body.leitor').addClass('entre-linha-1');
+                }
+            }
+            else if (espacamento === "linha2") {
+                $('#entrelinhas div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#linha2').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('entre-linha-2')) {
+                    $('body.leitor').removeClass('entre-linha-1 entre-linha-4 entre-linha-5');
+                    $('body.leitor').addClass('entre-linha-2');
+                }
+            }
+            else if (espacamento === "linha3") {
+                $('#entrelinhas div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#linha3').addClass("select");
+                });
+
+                $('body.leitor').removeClass('entre-linha-1 entre-linha-2 entre-linha-4 entre-linha-5');
+            }
+            else if (espacamento === "linha4") {
+                $('#entrelinhas div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#linha4').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('entre-linha-4')) {
+                    $('body.leitor').removeClass('entre-linha-1 entre-linha-2 entre-linha-5');
+                    $('body.leitor').addClass('entre-linha-4');
+                }
+            }
+            else if (espacamento === "linha5") {
+                $('#entrelinhas div').each(function (e) {
+                    if ($(this).hasClass("select")) {
+                        $(this).removeClass("select");
+                    }
+                    $('#linha5').addClass("select");
+                });
+
+                if (!$('body.leitor').hasClass('entre-linha-5')) {
+                    $('body.leitor').removeClass('entre-linha-1 entre-linha-2 entre-linha-4');
+                    $('body.leitor').addClass('entre-linha-5');
+                }
+            }
+        }
+
+        function sendFeedback(publicacaoId, avaliacao) {
+            var model = new Object();
+
+            model.PublicacaoId = publicacaoId;
+            model.Avaliacao = avaliacao;
+
+            $.fancybox.open($('#loadermodal'))
+
+            $.ajax({
+                type: "POST",
+                url: "/Leitor/SaveFeedback",
+                data: model,
+                success: function (response) {
+                    $.fancybox.close($('#erromodal'));
+                    $.fancybox.close($('.reportErrorModal'));
+                    $.fancybox.open($('#sucesso-feedback'));
+
+                },
+                error: function (e) {
+                    $.fancybox.close($('#erromodal'));
+                    $.fancybox.close($('.reportErrorModal'));
+                    $.fancybox.open($('#erromodal'));
+
+                }
+            });
+        }
+        
+         playerAudio.init(164117, 12067);
+
+    </script>
+
+
+</body>
+</html>

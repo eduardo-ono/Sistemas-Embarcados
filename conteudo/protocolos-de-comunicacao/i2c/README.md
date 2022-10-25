@@ -1,4 +1,4 @@
-> #### Sistemas Embarcados > Conteúdo > Protocolos de Comunicação
+> <h5>Sistemas Embarcados > Conteúdo > Protocolos de Comunicação</h5>
 
 # I2C (Inter-Integrated Circuit)
 
@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Vídeos Recomendados
+## Vídeos de Apoio
 
 |||
 | :-: | --- |
