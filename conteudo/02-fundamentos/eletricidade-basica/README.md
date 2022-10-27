@@ -9,13 +9,13 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-> Carga Elétrica
+* Carga Elétrica
 
-> Tensão Elétrica (Diferença de Potencial - DDP)
+* Tensão Elétrica (Diferença de Potencial - DDP)
 
-> Corrente Elétrica
+* Corrente Elétrica
 
-> Potência Elétrica
+* Potência Elétrica
 
 <br>
 

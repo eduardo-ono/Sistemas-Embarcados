@@ -1,15 +1,16 @@
 > Sistemas Embarcados > Conteúdo > Fundamentos
 
-# Eletrônica Básica
+<h1 align="center">Eletrônica Básica</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
-<br>
+&nbsp;
 
-## Vídeos e Apoio
+## Vídeos de Apoio
 
-| Thumb | Descrição |
-| :-: | --- |
-| [![img](https://img.youtube.com/vi/7ukDKVHnac4/default.jpg)](https://www.youtube.com/watch?v=7ukDKVHnac4 "Transistores, como eles funcionam?") | <sup>[Lesics]</sup> [__Transistores, como eles funcionam?__](https://www.youtube.com/watch?v=7ukDKVHnac4) <br> <sub>(6:52, YouTube, Jul/2016)</sub>
+| Thumb | Descrição | Tópicos Abordados |
+| :-: | --- | --- |
+| [![img](https://img.youtube.com/vi/JROzWgqDZrQ/default.jpg)](https://www.youtube.com/watch?v=JROzWgqDZrQ) | <sup>[Mentalidade De Engenharia]</sup><br>[__Transístor Explicado - Como funcionam os transístores__](https://www.youtube.com/watch?v=JROzWgqDZrQ)<br><sub>(18:19, YouTube, Set/2022)</sub> |  
+| [![img](https://img.youtube.com/vi/7ukDKVHnac4/default.jpg)](https://www.youtube.com/watch?v=7ukDKVHnac4 "Transistores, como eles funcionam?") | <sup>[Lesics]</sup><br>[__Transistores, como eles funcionam?__](https://www.youtube.com/watch?v=7ukDKVHnac4)<br><sub>(6:52, YouTube, Jul/2016)</sub>
 
-<br>
+&nbsp;

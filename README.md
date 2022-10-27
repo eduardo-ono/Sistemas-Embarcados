@@ -17,8 +17,8 @@
 
 | Aula | Data  | Conteúdo |
 | :-: |  :-:  | ---
-| 01 | 10/10 | Overview - Conceitos e Aplicações de Sistemas Embarcados; Fundamentos de Eletricidade e Eletrônica Básica.
-| 02 | 17/10 | Microcontroladores; Introdução ao Arduino - Placas, IDE e API; Resolução digital; Conversor Analógico-Digital (ADC).
+| 01 | 10/10 | Overview - Conceitos e Aplicações de Sistemas Embarcados; Fundamentos de [Eletricidade] e [Eletrônica Básica].
+| 02 | 17/10 | Microcontroladores; Introdução ao Arduino: Família de placas, IDE e API; Resolução digital; Conversor Analógico-Digital (ADC).
 | 03 | 24/10 | Conversor Digital-Analógico (DAC); PWM ("Pulse Width Modulation"); [Introdução à API do Arduino]; [Operadores bit-a-bit].
 | 04 |  | Primeiro _sketch_ do Arduino ("Olá mundo!"); Estrutura de um sketch do Arduino; Arquitetura ATmega328P, Uso dos registradores.
 | 05 |  | Alocação dinâmica de memória; Introdução à Programação Orientada em C++.
@@ -29,11 +29,14 @@
 | 09 |  | Multitarefa; Programação Concorrente com FreeRTOS
 | 10 |  | Protocolos de Comunicação
 | 11 |  | ESP32
-| 12 |  | Raspberry Pi
+| 12 |  | [Raspberry Pi]
 | 13 |  | Funbdamentos de Internet das Coisas (IoT)
 
+[Eletricidade]: ./conteudo/02-fundamentos/eletricidade-basica/README.md
+[Eletrônica Básica]: ./conteudo/02-fundamentos/eletronica-basica/README.md
 [Introdução à API do Arduino]: ./conteudo/04-arduino/04-api-do-arduino/README.md
 [Operadores bit-a-bit]: ./conteudo/cpp-poo/operadores-bit-a-bit/README.md
+[Raspberry Pi]: ./conteudo/raspberry-pi/README.md
 
 &nbsp;
 
@@ -95,5 +98,7 @@
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/GaBX2sY6V2E/default.jpg)](https://www.youtube.com/watch?v=GaBX2sY6V2E) | [__EVA (2011)__](https://www.youtube.com/watch?v=GaBX2sY6V2E) <br> <sub>(Trailer, YouTube, Fev/2015)</sub>
+| [![img](https://img.youtube.com/vi/TG2kUanmo5U/default.jpg)](https://www.youtube.com/watch?v=TG2kUanmo5U) | <sup>[Interesting Engineering]</sup><br>[__Protection At The Speed Of Light: Israel's Iron Beam In Action__](https://www.youtube.com/watch?v=TG2kUanmo5U)<br><sub>(8:18, YouTube, Jun/2022)</sub> | 
+| [![img](https://img.youtube.com/vi/-U0usQ-g9GM/default.jpg)](https://www.youtube.com/watch?v=-U0usQ-g9GM) | <sup>[AiTelly]</sup><br>[__Kamikaze drone Iran Shahed 136 \| How it Works__](https://www.youtube.com/watch?v=-U0usQ-g9GM)<br><sub>(7:13, YouTube, Out/2022)</sub> | 
 
 &nbsp;
