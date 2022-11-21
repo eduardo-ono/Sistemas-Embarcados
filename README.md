@@ -20,7 +20,7 @@
 | 01 | 10/10 | Overview - Conceitos e Aplicações de Sistemas Embarcados; Fundamentos de [Eletricidade] e [Eletrônica Básica].
 | 02 | 17/10 | Microcontroladores; Introdução ao Arduino: Família de placas, IDE e API; Resolução digital; Conversor Analógico-Digital (ADC).
 | 03 | 24/10 | Conversor Digital-Analógico (DAC); PWM ("Pulse Width Modulation"); [Introdução à API do Arduino]; [Operadores bit-a-bit].
-| 04 |  | Primeiro _sketch_ do Arduino ("Olá mundo!"); Estrutura de um sketch do Arduino; Arquitetura ATmega328P, Uso dos registradores.
+| 04 | 07/11 | Primeiro _sketch_ do Arduino: "Olá mundo!" ([pisca LED]); Estrutura de um _sketch_ do Arduino; Arquitetura ATmega328P, Uso dos registradores DDR e PORT.
 | 05 |  | Alocação dinâmica de memória; Introdução à Programação Orientada em C++.
 | 05 |  | Sensores e Atuadores - Conceitos e Aplicações
 | 06 |  | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
@@ -36,6 +36,7 @@
 [Eletrônica Básica]: ./conteudo/02-fundamentos/eletronica-basica/README.md
 [Introdução à API do Arduino]: ./conteudo/04-arduino/04-api-do-arduino/README.md
 [Operadores bit-a-bit]: ./conteudo/cpp-poo/operadores-bit-a-bit/README.md
+[pisca LED]: ./conteudo/04-arduino/03-ola-mundo/
 [Raspberry Pi]: ./conteudo/raspberry-pi/README.md
 
 &nbsp;
@@ -45,7 +46,7 @@
 * [Arduino IDE](https://www.arduino.cc/en/software/)
 * [SimulIDE](https://www.simulide.com)
 * [TinkerCAD](https://www.tinkercad.com)
-* Placa Arduino Uno (opcional)
+* Placa Arduino Uno/MEGA (opcional)
 * Placa ESP32 (opcional)
 * Placa Raspberry Pi 3B, 3B+ ou 4 (opcional)
 

@@ -38,5 +38,6 @@ int c = a << 3; // 0b00001000 // 8 (base 10)
 | Thumb | Descrição | Tópicos Abordados |
 | :-: | --- | --- |
 | [![img](https://img.youtube.com/vi/bgA5p-jVros/default.jpg)](https://www.youtube.com/watch?v=bgA5p-jVros) | <sup>[Professor Rafael Ivo]</sup><br>[__Programação em C - 05 - Operadores Bit a Bit__](https://www.youtube.com/watch?v=bgA5p-jVros)<br><sub>(17:22, YouTube, Abr/2020)</sub> | <li>Operadores &, \|, ~, << e >>.</li>
+| [![img](https://img.youtube.com/vi/Sd-wnvyEZTI/default.jpg)](https://www.youtube.com/watch?v=Sd-wnvyEZTI) | <sup>[Bobsien]</sup><br>[__DICAS12 - Entendendo o Bitwise, AND e OR lógica para uso em microcontroladores!__](https://www.youtube.com/watch?v=Sd-wnvyEZTI)<br><sub>(10:34, YouTube, Mar/2020)</sub> |
 
 &nbsp;

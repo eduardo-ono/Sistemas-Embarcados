@@ -10,7 +10,8 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-[![img](https://img.youtube.com/vi/1LJBXSoGTzI/default.jpg)](https://www.youtube.com/watch?v=1LJBXSoGTzI) | <sup>[WR Kits]</sup> [__ESP32: O VÍDEO QUE TODOS PRECISAM ASSISTIR ANTES DE UTILIZAR!__](https://www.youtube.com/watch?v=1LJBXSoGTzI)<br><sub>(2:35, YouTube, Mai/2020)</sub>
+[![img](https://img.youtube.com/vi/1LJBXSoGTzI/default.jpg)](https://www.youtube.com/watch?v=1LJBXSoGTzI) | <sup>[WR Kits]</sup><br>[__ESP32: O VÍDEO QUE TODOS PRECISAM ASSISTIR ANTES DE UTILIZAR!__](https://www.youtube.com/watch?v=1LJBXSoGTzI)<br><sub>(2:35, YouTube, Mai/2020)</sub>
+| [![img](https://img.youtube.com/vi/MmcfpJKqNCA/default.jpg)](https://www.youtube.com/watch?v=MmcfpJKqNCA) | <sup>[FILIPEFLOP]</sup><br>[__Apresentando: ESPs \| FILIPEFLOP__](https://www.youtube.com/watch?v=MmcfpJKqNCA)<br><sub>(3:57, YouTube, Nov/2020)</sub> | 
 
 <br>
 

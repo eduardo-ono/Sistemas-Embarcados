@@ -6,6 +6,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Instalação no Arduino IDE
+
+| Thumb | Descrição | Tópicos Abordados |
+| :-: | --- | --- |
+| [![img](https://img.youtube.com/vi/mwi01JG_OGA/default.jpg)](https://www.youtube.com/watch?v=mwi01JG_OGA) | <sup>[Programming Electronics Academy]</sup><br>[__ESP32 install Arduino IDE 2 in 90 seconds #ESP32__](https://www.youtube.com/watch?v=mwi01JG_OGA)<br><sub>(2:04, YouTube, Set/2022)</sub> | <li>Arduino IDE 2.0</li> 
+
 ## Vídeos de Apoio
 
 | Thumb | Descrição |
