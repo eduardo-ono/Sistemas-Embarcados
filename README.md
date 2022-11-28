@@ -21,16 +21,16 @@
 | 02 | 17/10 | Microcontroladores; Introdução ao Arduino: Família de placas, IDE e API; Resolução digital; Conversor Analógico-Digital (ADC).
 | 03 | 24/10 | Conversor Digital-Analógico (DAC); PWM ("Pulse Width Modulation"); [Introdução à API do Arduino]; [Operadores bit-a-bit].
 | 04 | 07/11 | Primeiro _sketch_ do Arduino: "Olá mundo!" ([pisca LED]); Estrutura de um _sketch_ do Arduino; Arquitetura ATmega328P, Uso dos registradores DDR e PORT.
-| 05 |  | Alocação dinâmica de memória; Introdução à Programação Orientada em C++.
-| 05 |  | Sensores e Atuadores - Conceitos e Aplicações
-| 06 |  | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
-| 07 |  | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
-| 08 |  | Interrupções e Temporizadores (_Timers_)
-| 09 |  | Multitarefa; Programação Concorrente com FreeRTOS
-| 10 |  | Protocolos de Comunicação
-| 11 |  | ESP32
-| 12 |  | [Raspberry Pi]
-| 13 |  | Funbdamentos de Internet das Coisas (IoT)
+| 05 | 31/11 | Alocação dinâmica de memória; Introdução à Programação Orientada em C++: Classes e Objetos; STL string (std::string).
+| 06 |  | Arduino API: Serial; Sensores e Atuadores - Conceitos e Aplicações
+| 07 |  | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
+| 08 |  | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
+| 09 |  | Interrupções e Temporizadores (_Timers_)
+| 10 |  | Multitarefa; Programação Concorrente com FreeRTOS
+| 11 |  | Protocolos de Comunicação
+| 12 |  | ESP32
+| 13 |  | [Raspberry Pi]
+| 14 |  | Funbdamentos de Internet das Coisas (IoT)
 
 [Eletricidade]: ./conteudo/02-fundamentos/eletricidade-basica/README.md
 [Eletrônica Básica]: ./conteudo/02-fundamentos/eletronica-basica/README.md
