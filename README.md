@@ -19,24 +19,25 @@
 | :-: |  :-:  | ---
 | 01 | 10/10 | Overview - Conceitos e Aplicações de Sistemas Embarcados; Fundamentos de [Eletricidade] e [Eletrônica Básica].
 | 02 | 17/10 | Microcontroladores; Introdução ao Arduino: Família de placas, IDE e API; Resolução digital; Conversor Analógico-Digital (ADC).
-| 03 | 24/10 | Conversor Digital-Analógico (DAC); PWM ("Pulse Width Modulation"); [Introdução à API do Arduino]; [Operadores bit-a-bit].
-| 04 | 07/11 | Primeiro _sketch_ do Arduino: "Olá mundo!" ([pisca LED]); Estrutura de um _sketch_ do Arduino; Arquitetura ATmega328P, Uso dos registradores DDR e PORT.
-| 05 | 31/11 | Alocação dinâmica de memória; Introdução à Programação Orientada em C++: Classes e Objetos; STL string (std::string).
-| 06 |  | Arduino API: Serial; Sensores e Atuadores - Conceitos e Aplicações
-| 07 |  | Programação em Arduino - Exemplos de uso de Sensores e Atuadores
-| 08 |  | Entrada digital - Botões (_push buttons_); Resistores Pull-Up e Pull-Down
-| 09 |  | Interrupções e Temporizadores (_Timers_)
-| 10 |  | Multitarefa; Programação Concorrente com FreeRTOS
-| 11 |  | Protocolos de Comunicação
-| 12 |  | ESP32
-| 13 |  | [Raspberry Pi]
-| 14 |  | Funbdamentos de Internet das Coisas (IoT)
+| 03 | 24/10 | Conversor Digital-Analógico (DAC); PWM ("Pulse Width Modulation"); [Introdução à API do Arduino]; Programação: [Operadores bit-a-bit].
+| 04 | 07/11 | Primeiro _sketch_ do Arduino: [Pisca LED]; Estrutura de um _sketch_ do Arduino; Arquitetura ATmega328P, Uso dos registradores DDR e PORT.
+| 05 | 21/11 | Alocação Dinâmica de Memória; Introdução à Programação Orientada em C++: Classes e Objetos; STL string (std::string).
+| 06 | 28/11 | Display LCD; Arduino API: LiquidCrystal.
+| 07 | 05/12 | ADC: Método das Aproximações Sucessivas; __2ª Avaliação__.  
+| 08 |  | Introdução aos Sensores e Atuadores.
+| 09 |  | Entrada digital: Botões (_push buttons_); Resistores Pull-Up e Pull-Down.
+| 10 |  | Interrupções e Temporizadores (_Timers_).
+| 11 |  | Multitarefa; Programação Concorrente com FreeRTOS.
+| 12 |  | Protocolos de Comunicação.
+| 13 |  | ESP32.
+| 14 |  | Single Board Computers (SBC); [Raspberry Pi].
+| 15 |  | Fundamentos de Internet das Coisas (IoT).
 
 [Eletricidade]: ./conteudo/02-fundamentos/eletricidade-basica/README.md
 [Eletrônica Básica]: ./conteudo/02-fundamentos/eletronica-basica/README.md
 [Introdução à API do Arduino]: ./conteudo/04-arduino/04-api-do-arduino/README.md
 [Operadores bit-a-bit]: ./conteudo/cpp-poo/operadores-bit-a-bit/README.md
-[pisca LED]: ./conteudo/04-arduino/03-ola-mundo/
+[Pisca LED]: ./conteudo/04-arduino/03-ola-mundo/
 [Raspberry Pi]: ./conteudo/raspberry-pi/README.md
 
 &nbsp;
@@ -87,10 +88,10 @@
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/81q9kBRQt1E/default.jpg)](https://www.youtube.com/watch?v=81q9kBRQt1E) | [Pianistos] [__[HQ] Someone like you - Adele (Piano cover)__](https://www.youtube.com/watch?v=81q9kBRQt1E) <br> <sub>(YouTube, 5:02, Dez/2015)</sub>
-| [![img](https://img.youtube.com/vi/Vn39txtVIHc/default.jpg)](https://www.youtube.com/watch?v=Vn39txtVIHc) | [Pianistos] [__3D Spectrum Analyser (1280 LEDs) - MAKING OF__](https://www.youtube.com/watch?v=Vn39txtVIHc) <br> <sub>(YouTube, 22:56, Jan/2015)</sub>
-| [![img](https://img.youtube.com/vi/COPaqJBekBQ/default.jpg)](https://www.youtube.com/watch?v=COPaqJBekBQ) | [ElectroSmash] [__pedalSHIELD DUE Arduino Guitar Pedal__](https://www.youtube.com/watch?v=COPaqJBekBQ) <br> <sub>(YouTube, 2:20, Dez/2013)</sub>
-| [![img](https://img.youtube.com/vi/m-LP4qpOLl0/default.jpg)](https://www.youtube.com/watch?v=m-LP4qpOLl0) | [PRO ROBOTS] [__The newest robots 2021 \| Incredible and technologically advanced robots__](https://www.youtube.com/watch?v=m-LP4qpOLl0) <br> <sub>(YouTube, 10:08, Mai/2021)</sub>
+| [![img](https://img.youtube.com/vi/81q9kBRQt1E/default.jpg)](https://www.youtube.com/watch?v=81q9kBRQt1E) | <sup>[Pianistos]</sup><br>[__[HQ] Someone like you - Adele (Piano cover)__](https://www.youtube.com/watch?v=81q9kBRQt1E)<br><sub>(YouTube, 5:02, Dez/2015)</sub>
+| [![img](https://img.youtube.com/vi/Vn39txtVIHc/default.jpg)](https://www.youtube.com/watch?v=Vn39txtVIHc) | <sup>[Pianistos]</sup><br>[__3D Spectrum Analyser (1280 LEDs) - MAKING OF__](https://www.youtube.com/watch?v=Vn39txtVIHc)<br><sub>(YouTube, 22:56, Jan/2015)</sub>
+| [![img](https://img.youtube.com/vi/COPaqJBekBQ/default.jpg)](https://www.youtube.com/watch?v=COPaqJBekBQ) | <sup>[ElectroSmash]</sup><br>[__pedalSHIELD DUE Arduino Guitar Pedal__](https://www.youtube.com/watch?v=COPaqJBekBQ)<br><sub>(YouTube, 2:20, Dez/2013)</sub>
+| [![img](https://img.youtube.com/vi/m-LP4qpOLl0/default.jpg)](https://www.youtube.com/watch?v=m-LP4qpOLl0) | <sup>[PRO ROBOTS]</sup><br>[__The newest robots 2021 \| Incredible and technologically advanced robots__](https://www.youtube.com/watch?v=m-LP4qpOLl0)<br><sub>(YouTube, 10:08, Mai/2021)</sub>
 
 &nbsp;
 
